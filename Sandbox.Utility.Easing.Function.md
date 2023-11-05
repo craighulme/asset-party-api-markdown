@@ -1,6 +1,7 @@
 # Function
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

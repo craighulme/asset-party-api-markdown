@@ -1,6 +1,7 @@
 # AddCirclePathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<AddCirclePathCommand>
 ```
 

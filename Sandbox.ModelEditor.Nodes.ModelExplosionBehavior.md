@@ -1,6 +1,7 @@
 # ModelExplosionBehavior
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # GradientFogEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

@@ -1,6 +1,7 @@
 # AssetBrowser
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

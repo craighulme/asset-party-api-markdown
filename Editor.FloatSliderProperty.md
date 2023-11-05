@@ -1,6 +1,7 @@
 # FloatSliderProperty
 
-## ```c#
+## 
+```c#
 Implements IEditorAttribute<MinMaxAttribute>, IEditorAttribute<RangeAttribute>
 ```
 

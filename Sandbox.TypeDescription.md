@@ -1,6 +1,7 @@
 # TypeDescription
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

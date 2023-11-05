@@ -1,6 +1,7 @@
 # MenuResourcesPage
 
-## ```c#
+## 
+```c#
 Derives from BasePage
 ```
 

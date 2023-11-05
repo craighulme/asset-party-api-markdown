@@ -1,6 +1,7 @@
 # NetworkMessage
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

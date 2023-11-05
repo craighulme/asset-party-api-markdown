@@ -1,6 +1,7 @@
 # BlendMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

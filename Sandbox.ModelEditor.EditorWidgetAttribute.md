@@ -1,6 +1,7 @@
 # EditorWidgetAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

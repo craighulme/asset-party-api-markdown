@@ -1,6 +1,7 @@
 # CodeEditor
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

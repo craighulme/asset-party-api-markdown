@@ -1,6 +1,7 @@
 # EntityObject
 
-## ```c#
+## 
+```c#
 Derives from SerializedObject
 ```
 

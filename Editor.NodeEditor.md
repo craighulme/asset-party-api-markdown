@@ -1,6 +1,8 @@
 # Editor.NodeEditor Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from ValueType
 ```

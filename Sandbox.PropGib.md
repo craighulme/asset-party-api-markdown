@@ -1,6 +1,7 @@
 # PropGib
 
-## ```c#
+## 
+```c#
 Derives from Prop
 ```
 

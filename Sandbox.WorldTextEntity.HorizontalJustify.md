@@ -1,6 +1,7 @@
 # HorizontalJustify
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

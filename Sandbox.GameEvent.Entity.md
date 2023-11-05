@@ -1,6 +1,7 @@
 # Entity
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

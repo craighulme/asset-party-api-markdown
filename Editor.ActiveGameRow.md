@@ -1,6 +1,7 @@
 # ActiveGameRow
 
-## ```c#
+## 
+```c#
 Derives from ProjectRow
 ```
 

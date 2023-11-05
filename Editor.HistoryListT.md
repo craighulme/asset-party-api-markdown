@@ -1,6 +1,7 @@
 # HistoryList<T>
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

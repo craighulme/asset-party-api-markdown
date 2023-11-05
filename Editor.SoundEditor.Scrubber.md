@@ -1,6 +1,7 @@
 # Scrubber
 
-## ```c#
+## 
+```c#
 Derives from GraphicsItem
 ```
 

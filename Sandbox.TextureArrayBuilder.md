@@ -1,6 +1,7 @@
 # TextureArrayBuilder
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

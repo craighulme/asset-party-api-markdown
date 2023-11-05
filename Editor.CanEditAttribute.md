@@ -1,6 +1,7 @@
 # CanEditAttribute
 
-## ```c#
+## 
+```c#
 Implements ITypeAttribute, IUninheritable
 ```
 

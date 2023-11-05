@@ -1,6 +1,7 @@
 # CodeGeneratorFlags
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # StreamChatMessage
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

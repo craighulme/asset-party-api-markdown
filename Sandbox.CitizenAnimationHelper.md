@@ -1,6 +1,7 @@
 # CitizenAnimationHelper
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

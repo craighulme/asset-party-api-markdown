@@ -1,6 +1,7 @@
 # ColorControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

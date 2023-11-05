@@ -1,6 +1,7 @@
 # BaseConstraint
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

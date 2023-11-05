@@ -1,6 +1,7 @@
 # PhysicsIntersectionEnd
 
-## ```c#
+## 
+```c#
 Implements IEquatable<PhysicsIntersectionEnd>
 ```
 

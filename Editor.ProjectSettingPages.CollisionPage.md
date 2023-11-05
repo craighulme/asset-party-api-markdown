@@ -1,6 +1,7 @@
 # CollisionPage
 
-## ```c#
+## 
+```c#
 Derives from BasePage
 ```
 

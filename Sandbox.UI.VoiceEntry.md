@@ -1,6 +1,7 @@
 # VoiceEntry
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

@@ -1,6 +1,8 @@
 # Sandbox.DataModel.Game Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from ValueType
 ```

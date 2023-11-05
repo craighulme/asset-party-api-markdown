@@ -1,6 +1,7 @@
 # PropertyDescription
 
-## ```c#
+## 
+```c#
 Derives from MemberDescription
 ```
 

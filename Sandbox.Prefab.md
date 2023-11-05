@@ -1,6 +1,7 @@
 # Prefab
 
-## ```c#
+## 
+```c#
 Derives from GameResource
 ```
 

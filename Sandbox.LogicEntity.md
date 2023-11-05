@@ -1,6 +1,7 @@
 # LogicEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

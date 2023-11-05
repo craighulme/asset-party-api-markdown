@@ -1,6 +1,7 @@
 # WaterEffectComponent
 
-## ```c#
+## 
+```c#
 Implements ISingletonComponent
 ```
 

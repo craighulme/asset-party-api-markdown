@@ -1,6 +1,7 @@
 # Rect
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Rect>
 ```
 

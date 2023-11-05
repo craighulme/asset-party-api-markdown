@@ -1,6 +1,8 @@
 # Editor.GraphicsItems Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from GraphicsItem
 ```

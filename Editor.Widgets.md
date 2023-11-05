@@ -1,6 +1,8 @@
 # Editor.Widgets Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Widget
 ```

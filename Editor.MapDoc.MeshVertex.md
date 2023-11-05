@@ -1,6 +1,7 @@
 # MeshVertex
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

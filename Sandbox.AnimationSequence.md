@@ -1,6 +1,7 @@
 # AnimationSequence
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # HammerMainWindow
 
-## ```c#
+## 
+```c#
 Derives from DockWindow
 ```
 

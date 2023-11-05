@@ -1,6 +1,7 @@
 # SceneSpotLight
 
-## ```c#
+## 
+```c#
 Derives from SceneLight
 ```
 

@@ -1,6 +1,7 @@
 # FocusChangeReason
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

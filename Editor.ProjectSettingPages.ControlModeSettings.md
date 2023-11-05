@@ -1,6 +1,7 @@
 # ControlModeSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

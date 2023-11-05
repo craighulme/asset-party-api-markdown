@@ -1,6 +1,7 @@
 # DescriptionAttribute
 
-## ```c#
+## 
+```c#
 Implements IDescriptionProvider, IUninheritable
 ```
 

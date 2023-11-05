@@ -1,6 +1,8 @@
 # Sandbox.UI.GameMenu Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Panel
 ```

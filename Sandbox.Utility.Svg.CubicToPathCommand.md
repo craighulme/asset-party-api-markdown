@@ -1,6 +1,7 @@
 # CubicToPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<CubicToPathCommand>
 ```
 

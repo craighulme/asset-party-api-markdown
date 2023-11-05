@@ -1,6 +1,7 @@
 # EntityNode
 
-## ```c#
+## 
+```c#
 Derives from TreeNode<EntityEntry>
 ```
 

@@ -1,6 +1,7 @@
 # ButtonEntity
 
-## ```c#
+## 
+```c#
 Implements IUse
 ```
 

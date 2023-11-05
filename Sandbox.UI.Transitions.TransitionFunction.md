@@ -1,6 +1,7 @@
 # TransitionFunction
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

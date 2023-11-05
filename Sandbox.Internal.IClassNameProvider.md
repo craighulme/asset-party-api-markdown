@@ -1,6 +1,7 @@
 # IClassNameProvider
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

@@ -1,6 +1,7 @@
 # ManifestSchema
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # VarDictionaryUU<TKey,TVal>
 
-## ```c#
+## 
+```c#
 Derives from NetworkBaseDictionary<TKey, TVal>
 ```
 

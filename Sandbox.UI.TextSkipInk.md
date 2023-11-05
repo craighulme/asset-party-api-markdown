@@ -1,6 +1,7 @@
 # TextSkipInk
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

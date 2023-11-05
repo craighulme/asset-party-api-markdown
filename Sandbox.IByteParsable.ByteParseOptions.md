@@ -1,6 +1,7 @@
 # ByteParseOptions
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

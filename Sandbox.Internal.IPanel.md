@@ -1,6 +1,7 @@
 # IPanel
 
-## ```c#
+## 
+```c#
 Inherits IValid
 ```
 

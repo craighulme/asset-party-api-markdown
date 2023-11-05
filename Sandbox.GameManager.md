@@ -1,6 +1,7 @@
 # GameManager
 
-## ```c#
+## 
+```c#
 Derives from BaseGameManager
 ```
 

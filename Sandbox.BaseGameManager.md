@@ -1,6 +1,7 @@
 # BaseGameManager
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

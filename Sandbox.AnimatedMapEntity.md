@@ -1,6 +1,7 @@
 # AnimatedMapEntity
 
-## ```c#
+## 
+```c#
 Derives from AnimatedEntity
 ```
 

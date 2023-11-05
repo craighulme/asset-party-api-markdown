@@ -1,6 +1,7 @@
 # ProjectConfig
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

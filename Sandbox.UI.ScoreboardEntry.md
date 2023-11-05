@@ -1,6 +1,7 @@
 # ScoreboardEntry
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

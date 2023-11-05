@@ -1,6 +1,7 @@
 # SkyboxAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

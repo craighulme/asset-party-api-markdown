@@ -1,6 +1,7 @@
 # IBasePathNode
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

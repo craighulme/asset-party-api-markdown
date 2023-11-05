@@ -1,6 +1,7 @@
 # ConVar
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

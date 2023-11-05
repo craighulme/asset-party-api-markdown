@@ -1,6 +1,7 @@
 # Timings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # Line
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Line>
 ```
 

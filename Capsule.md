@@ -1,6 +1,7 @@
 # Capsule
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Capsule>
 ```
 

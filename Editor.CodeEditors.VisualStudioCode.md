@@ -1,6 +1,7 @@
 # VisualStudioCode
 
-## ```c#
+## 
+```c#
 Implements ICodeEditor
 ```
 

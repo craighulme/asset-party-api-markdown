@@ -1,6 +1,7 @@
 # ExpandGroup
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

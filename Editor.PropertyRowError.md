@@ -1,6 +1,7 @@
 # PropertyRowError
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

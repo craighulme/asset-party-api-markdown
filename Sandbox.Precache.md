@@ -1,6 +1,7 @@
 # Precache
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

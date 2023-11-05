@@ -1,6 +1,7 @@
 # TextAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

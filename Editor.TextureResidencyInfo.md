@@ -1,6 +1,7 @@
 # TextureResidencyInfo
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

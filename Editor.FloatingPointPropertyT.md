@@ -1,6 +1,7 @@
 # FloatingPointProperty<T>
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

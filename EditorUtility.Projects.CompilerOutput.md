@@ -1,6 +1,7 @@
 # CompilerOutput
 
-## ```c#
+## 
+```c#
 Implements IEquatable<CompilerOutput>
 ```
 

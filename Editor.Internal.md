@@ -1,6 +1,8 @@
 # Editor.Internal Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from FloatControlWidget
 ```

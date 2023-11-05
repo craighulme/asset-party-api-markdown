@@ -1,6 +1,7 @@
 # EnumDescription
 
-## ```c#
+## 
+```c#
 Implements IEnumerable<Entry>
 ```
 

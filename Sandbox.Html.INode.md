@@ -1,6 +1,7 @@
 # INode
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

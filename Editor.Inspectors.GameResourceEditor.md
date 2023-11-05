@@ -1,6 +1,7 @@
 # GameResourceEditor
 
-## ```c#
+## 
+```c#
 Implements IAssetEditor
 ```
 

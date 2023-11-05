@@ -1,6 +1,7 @@
 # MapPathNode
 
-## ```c#
+## 
+```c#
 Derives from MapNode
 ```
 

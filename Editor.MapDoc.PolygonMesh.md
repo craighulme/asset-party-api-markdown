@@ -1,6 +1,7 @@
 # PolygonMesh
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

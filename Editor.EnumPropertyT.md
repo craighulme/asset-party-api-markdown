@@ -1,6 +1,7 @@
 # EnumProperty<T>
 
-## ```c#
+## 
+```c#
 Derives from ComboBox
 ```
 

@@ -1,6 +1,7 @@
 # TrackedObject
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # IconAttribute
 
-## ```c#
+## 
+```c#
 Implements IIconProvider, IUninheritable
 ```
 

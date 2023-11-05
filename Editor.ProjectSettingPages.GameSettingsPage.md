@@ -1,6 +1,7 @@
 # GameSettingsPage
 
-## ```c#
+## 
+```c#
 Derives from BasePage
 ```
 

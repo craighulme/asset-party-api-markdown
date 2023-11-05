@@ -1,6 +1,7 @@
 # FlagsProperty<T>
 
-## ```c#
+## 
+```c#
 Implements IEditorAttribute<FlagsAttribute>, IEditorAttribute<BitFlagsAttribute>
 ```
 

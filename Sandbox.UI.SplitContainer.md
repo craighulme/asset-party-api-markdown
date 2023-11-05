@@ -1,6 +1,7 @@
 # SplitContainer
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

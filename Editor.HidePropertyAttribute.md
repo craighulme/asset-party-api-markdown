@@ -1,6 +1,7 @@
 # HidePropertyAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

@@ -1,6 +1,7 @@
 # EditableCurve
 
-## ```c#
+## 
+```c#
 Derives from GraphicsItem
 ```
 

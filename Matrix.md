@@ -1,6 +1,7 @@
 # Matrix
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Matrix>
 ```
 

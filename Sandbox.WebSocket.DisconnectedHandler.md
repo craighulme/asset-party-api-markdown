@@ -1,6 +1,7 @@
 # DisconnectedHandler
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

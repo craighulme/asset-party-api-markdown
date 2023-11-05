@@ -1,6 +1,7 @@
 # MovementPathNodeEntity
 
-## ```c#
+## 
+```c#
 Derives from BasePathNodeEntity
 ```
 

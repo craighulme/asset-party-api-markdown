@@ -1,6 +1,7 @@
 # VertexBuffer
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

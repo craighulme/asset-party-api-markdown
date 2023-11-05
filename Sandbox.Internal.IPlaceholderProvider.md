@@ -1,6 +1,7 @@
 # IPlaceholderProvider
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

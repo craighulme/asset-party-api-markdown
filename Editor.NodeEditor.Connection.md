@@ -1,6 +1,7 @@
 # Connection
 
-## ```c#
+## 
+```c#
 Derives from GraphicsLine
 ```
 

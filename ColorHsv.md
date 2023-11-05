@@ -1,6 +1,7 @@
 # ColorHsv
 
-## ```c#
+## 
+```c#
 Implements IEquatable<ColorHsv>
 ```
 

@@ -1,6 +1,8 @@
 # Editor.Widgets.Packages Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Is interface
 ```

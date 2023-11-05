@@ -1,6 +1,7 @@
 # ByteStream
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # Category
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

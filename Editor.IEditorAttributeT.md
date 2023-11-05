@@ -1,6 +1,7 @@
 # IEditorAttribute<T>
 
-## ```c#
+## 
+```c#
 Inherits IEditorAttributeBase
 ```
 

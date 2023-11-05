@@ -1,6 +1,7 @@
 # TextEntry
 
-## ```c#
+## 
+```c#
 Implements IInputControl
 ```
 

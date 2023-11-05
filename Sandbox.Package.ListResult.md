@@ -1,6 +1,7 @@
 # ListResult
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

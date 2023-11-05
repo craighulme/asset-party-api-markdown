@@ -1,6 +1,7 @@
 # VarGenericList<T>
 
-## ```c#
+## 
+```c#
 Derives from NetworkBaseList<T>
 ```
 

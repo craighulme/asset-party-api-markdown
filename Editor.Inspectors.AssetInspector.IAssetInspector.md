@@ -1,6 +1,7 @@
 # IAssetInspector
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

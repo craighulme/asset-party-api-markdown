@@ -1,6 +1,7 @@
 # WaveForm
 
-## ```c#
+## 
+```c#
 Derives from GraphicsItem
 ```
 

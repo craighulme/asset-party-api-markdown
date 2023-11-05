@@ -1,6 +1,7 @@
 # DynamicCableEntity
 
-## ```c#
+## 
+```c#
 Derives from AnimatedMapEntity
 ```
 

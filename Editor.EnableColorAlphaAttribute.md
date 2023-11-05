@@ -1,6 +1,7 @@
 # EnableColorAlphaAttribute
 
-## ```c#
+## 
+```c#
 Derives from FieldMetaDataAttribute
 ```
 

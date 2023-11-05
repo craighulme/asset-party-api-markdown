@@ -1,6 +1,7 @@
 # Instance
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

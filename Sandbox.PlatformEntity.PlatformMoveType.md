@@ -1,6 +1,7 @@
 # PlatformMoveType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

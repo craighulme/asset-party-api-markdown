@@ -1,6 +1,7 @@
 # PanelStyle
 
-## ```c#
+## 
+```c#
 Derives from Styles
 ```
 

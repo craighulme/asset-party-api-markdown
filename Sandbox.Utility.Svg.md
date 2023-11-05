@@ -1,6 +1,8 @@
 # Sandbox.Utility.Svg Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Implements IEquatable<CubicToPathCommand>
 ```

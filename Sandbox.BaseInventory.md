@@ -1,6 +1,7 @@
 # BaseInventory
 
-## ```c#
+## 
+```c#
 Implements IBaseInventory
 ```
 

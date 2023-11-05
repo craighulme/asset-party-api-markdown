@@ -1,6 +1,7 @@
 # BatchPublisher
 
-## ```c#
+## 
+```c#
 Derives from BaseWindow
 ```
 

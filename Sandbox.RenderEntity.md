@@ -1,6 +1,7 @@
 # RenderEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

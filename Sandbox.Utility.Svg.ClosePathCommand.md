@@ -1,6 +1,7 @@
 # ClosePathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<ClosePathCommand>
 ```
 

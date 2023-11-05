@@ -1,6 +1,7 @@
 # DebugOverlay
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

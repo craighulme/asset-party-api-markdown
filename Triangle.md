@@ -1,6 +1,7 @@
 # Triangle
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Triangle>
 ```
 

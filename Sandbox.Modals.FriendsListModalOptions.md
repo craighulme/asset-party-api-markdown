@@ -1,6 +1,7 @@
 # FriendsListModalOptions
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

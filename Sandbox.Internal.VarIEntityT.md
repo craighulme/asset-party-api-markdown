@@ -1,6 +1,7 @@
 # VarIEntity<T>
 
-## ```c#
+## 
+```c#
 Derives from Var
 ```
 

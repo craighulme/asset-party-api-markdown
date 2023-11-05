@@ -1,6 +1,7 @@
 # ISingletonComponent
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

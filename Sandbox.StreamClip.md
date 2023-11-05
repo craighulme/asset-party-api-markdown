@@ -1,6 +1,7 @@
 # StreamClip
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

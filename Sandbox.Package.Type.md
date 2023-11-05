@@ -1,6 +1,7 @@
 # Type
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

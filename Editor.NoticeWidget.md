@@ -1,6 +1,7 @@
 # NoticeWidget
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

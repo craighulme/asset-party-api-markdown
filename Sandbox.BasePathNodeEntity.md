@@ -1,6 +1,7 @@
 # BasePathNodeEntity
 
-## ```c#
+## 
+```c#
 Implements IBasePathNode
 ```
 

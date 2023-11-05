@@ -1,6 +1,7 @@
 # Sky
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

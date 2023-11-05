@@ -1,6 +1,7 @@
 # BaseViewModel
 
-## ```c#
+## 
+```c#
 Derives from AnimatedEntity
 ```
 

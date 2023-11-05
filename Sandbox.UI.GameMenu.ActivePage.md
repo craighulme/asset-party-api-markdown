@@ -1,6 +1,7 @@
 # ActivePage
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

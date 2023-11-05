@@ -1,6 +1,7 @@
 # StreamUserFollow
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

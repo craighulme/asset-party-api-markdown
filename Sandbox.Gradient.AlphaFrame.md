@@ -1,6 +1,7 @@
 # AlphaFrame
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

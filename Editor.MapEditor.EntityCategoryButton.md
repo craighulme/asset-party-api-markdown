@@ -1,6 +1,7 @@
 # EntityCategoryButton
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

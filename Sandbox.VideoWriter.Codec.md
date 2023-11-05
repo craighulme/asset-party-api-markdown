@@ -1,6 +1,7 @@
 # Codec
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

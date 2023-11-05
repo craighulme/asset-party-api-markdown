@@ -1,6 +1,7 @@
 # IntProperty
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

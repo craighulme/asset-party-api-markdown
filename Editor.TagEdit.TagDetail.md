@@ -1,6 +1,7 @@
 # TagDetail
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

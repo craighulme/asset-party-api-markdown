@@ -1,6 +1,7 @@
 # NetworkType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

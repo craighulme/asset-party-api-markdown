@@ -1,6 +1,7 @@
 # AnimationGraph
 
-## ```c#
+## 
+```c#
 Derives from Resource
 ```
 

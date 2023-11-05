@@ -1,6 +1,7 @@
 # ResourceTypeAttribute
 
-## ```c#
+## 
+```c#
 Derives from FGDTypeAttribute
 ```
 

@@ -1,6 +1,7 @@
 # EntityReportSourceAttribute
 
-## ```c#
+## 
+```c#
 Derives from FieldMetaDataAttribute
 ```
 

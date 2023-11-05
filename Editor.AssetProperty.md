@@ -1,6 +1,7 @@
 # AssetProperty
 
-## ```c#
+## 
+```c#
 Implements IEditorAttribute<ResourceTypeAttribute>
 ```
 

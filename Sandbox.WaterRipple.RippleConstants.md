@@ -1,6 +1,7 @@
 # RippleConstants
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # StyleSheetCollection
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

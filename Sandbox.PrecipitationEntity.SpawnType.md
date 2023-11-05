@@ -1,6 +1,7 @@
 # SpawnType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

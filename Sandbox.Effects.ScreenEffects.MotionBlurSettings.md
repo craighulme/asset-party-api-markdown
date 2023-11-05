@@ -1,6 +1,7 @@
 # MotionBlurSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

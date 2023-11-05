@@ -1,6 +1,7 @@
 # Crc32
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # ModelPropData
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

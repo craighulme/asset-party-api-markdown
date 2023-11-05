@@ -1,6 +1,7 @@
 # Trace
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

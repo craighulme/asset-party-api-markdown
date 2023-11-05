@@ -1,6 +1,7 @@
 # SelectionEvent
 
-## ```c#
+## 
+```c#
 Derives from PanelEvent
 ```
 

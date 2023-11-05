@@ -1,6 +1,7 @@
 # WidgetGalleryAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

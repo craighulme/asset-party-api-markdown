@@ -1,6 +1,7 @@
 # IGameMenuPanel
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

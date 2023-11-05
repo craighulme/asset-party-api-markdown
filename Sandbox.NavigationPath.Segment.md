@@ -1,6 +1,7 @@
 # Segment
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

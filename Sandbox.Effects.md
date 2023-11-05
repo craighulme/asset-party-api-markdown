@@ -1,6 +1,8 @@
 # Sandbox.Effects Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from RenderHook
 ```

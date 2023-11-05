@@ -1,6 +1,7 @@
 # AssetAutoTagFilter
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

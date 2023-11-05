@@ -1,6 +1,7 @@
 # AnimatedEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

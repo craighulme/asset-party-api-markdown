@@ -1,6 +1,7 @@
 # ComputeBuffer<T>
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

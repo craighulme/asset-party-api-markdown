@@ -1,6 +1,7 @@
 # HeadBarEvent
 
-## ```c#
+## 
+```c#
 Implements IEquatable<HeadBarEvent>
 ```
 

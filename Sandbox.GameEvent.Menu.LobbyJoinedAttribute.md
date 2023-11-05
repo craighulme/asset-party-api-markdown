@@ -1,6 +1,7 @@
 # LobbyJoinedAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

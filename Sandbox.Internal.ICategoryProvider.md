@@ -1,6 +1,7 @@
 # ICategoryProvider
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

@@ -1,6 +1,7 @@
 # SliderControl
 
-## ```c#
+## 
+```c#
 Derives from BaseControl
 ```
 

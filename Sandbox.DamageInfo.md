@@ -1,6 +1,7 @@
 # DamageInfo
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

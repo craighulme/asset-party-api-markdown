@@ -1,6 +1,7 @@
 # MathX
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

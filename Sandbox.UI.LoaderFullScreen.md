@@ -1,6 +1,7 @@
 # LoaderFullScreen
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

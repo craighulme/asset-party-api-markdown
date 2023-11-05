@@ -1,6 +1,7 @@
 # LineToPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<LineToPathCommand>
 ```
 

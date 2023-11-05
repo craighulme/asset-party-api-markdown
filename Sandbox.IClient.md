@@ -1,6 +1,7 @@
 # IClient
 
-## ```c#
+## 
+```c#
 Inherits IEntity
 ```
 

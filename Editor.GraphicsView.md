@@ -1,6 +1,7 @@
 # GraphicsView
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

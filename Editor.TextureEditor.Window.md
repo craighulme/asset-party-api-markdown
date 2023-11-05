@@ -1,6 +1,7 @@
 # Window
 
-## ```c#
+## 
+```c#
 Implements IAssetEditor
 ```
 

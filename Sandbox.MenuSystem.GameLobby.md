@@ -1,6 +1,7 @@
 # GameLobby
 
-## ```c#
+## 
+```c#
 Implements ILobby
 ```
 

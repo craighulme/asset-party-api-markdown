@@ -1,6 +1,7 @@
 # PathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<PathCommand>
 ```
 

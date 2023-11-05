@@ -1,6 +1,7 @@
 # IconPanel
 
-## ```c#
+## 
+```c#
 Derives from Label
 ```
 

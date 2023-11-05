@@ -1,6 +1,7 @@
 # WarningBox
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

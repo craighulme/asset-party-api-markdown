@@ -1,6 +1,7 @@
 # CommentNode
 
-## ```c#
+## 
+```c#
 Derives from BaseNode
 ```
 

@@ -1,6 +1,7 @@
 # Connection
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Connection>
 ```
 

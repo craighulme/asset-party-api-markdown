@@ -1,6 +1,7 @@
 # TitleAttribute
 
-## ```c#
+## 
+```c#
 Implements ITitleProvider, IUninheritable
 ```
 

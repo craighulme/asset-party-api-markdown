@@ -1,6 +1,7 @@
 # IByteParsable<T>
 
-## ```c#
+## 
+```c#
 Inherits IByteParsable
 ```
 

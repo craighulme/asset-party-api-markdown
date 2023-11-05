@@ -1,6 +1,7 @@
 # PanelInputType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # StyleSelector
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

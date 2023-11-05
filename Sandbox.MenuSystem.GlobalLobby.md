@@ -1,6 +1,7 @@
 # GlobalLobby
 
-## ```c#
+## 
+```c#
 Implements ILobby
 ```
 

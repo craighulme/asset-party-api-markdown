@@ -1,6 +1,7 @@
 # CircularBuffer<T>
 
-## ```c#
+## 
+```c#
 Implements IEnumerable<T>
 ```
 

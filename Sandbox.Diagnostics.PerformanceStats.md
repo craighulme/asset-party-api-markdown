@@ -1,6 +1,7 @@
 # PerformanceStats
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

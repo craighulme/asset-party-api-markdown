@@ -1,6 +1,7 @@
 # Vector3
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Vector3>, IParsable<Vector3>
 ```
 

@@ -1,6 +1,7 @@
 # VoxelChunk
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

@@ -1,6 +1,7 @@
 # FolderProperty
 
-## ```c#
+## 
+```c#
 Derives from LineEdit
 ```
 

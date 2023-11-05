@@ -1,6 +1,7 @@
 # RealTimeSince
 
-## ```c#
+## 
+```c#
 Implements IEquatable<RealTimeSince>
 ```
 

@@ -1,6 +1,7 @@
 # FrontPage
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

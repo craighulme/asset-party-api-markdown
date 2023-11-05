@@ -1,6 +1,7 @@
 # GradientControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

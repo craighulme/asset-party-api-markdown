@@ -1,6 +1,8 @@
 # Sandbox.DataModel Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Enum
 ```

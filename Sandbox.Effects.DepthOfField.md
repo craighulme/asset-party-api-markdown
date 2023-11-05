@@ -1,6 +1,7 @@
 # DepthOfField
 
-## ```c#
+## 
+```c#
 Derives from RenderHook
 ```
 

@@ -1,6 +1,7 @@
 # Curve2DProperty
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

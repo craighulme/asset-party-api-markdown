@@ -1,6 +1,7 @@
 # ActionBind
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

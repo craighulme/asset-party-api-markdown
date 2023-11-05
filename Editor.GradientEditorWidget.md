@@ -1,6 +1,7 @@
 # GradientEditorWidget
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

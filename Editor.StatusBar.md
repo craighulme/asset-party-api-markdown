@@ -1,6 +1,7 @@
 # StatusBar
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

@@ -1,6 +1,7 @@
 # Clipboard
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

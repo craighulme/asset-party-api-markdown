@@ -1,6 +1,7 @@
 # TriggerOnce
 
-## ```c#
+## 
+```c#
 Derives from BaseTrigger
 ```
 

@@ -1,6 +1,8 @@
 # Sandbox.UI Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Panel
 ```

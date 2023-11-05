@@ -1,6 +1,7 @@
 # PartyLobby
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

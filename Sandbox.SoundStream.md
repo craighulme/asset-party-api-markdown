@@ -1,6 +1,7 @@
 # SoundStream
 
-## ```c#
+## 
+```c#
 Implements IHandle
 ```
 

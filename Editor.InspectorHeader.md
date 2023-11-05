@@ -1,6 +1,7 @@
 # InspectorHeader
 
-## ```c#
+## 
+```c#
 Derives from ToolBar
 ```
 

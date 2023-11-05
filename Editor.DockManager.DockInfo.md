@@ -1,6 +1,7 @@
 # DockInfo
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

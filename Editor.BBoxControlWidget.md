@@ -1,6 +1,7 @@
 # BBoxControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

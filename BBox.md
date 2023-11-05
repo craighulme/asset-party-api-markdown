@@ -1,6 +1,7 @@
 # BBox
 
-## ```c#
+## 
+```c#
 Implements IEquatable<BBox>
 ```
 

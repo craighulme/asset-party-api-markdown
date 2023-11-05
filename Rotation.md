@@ -1,6 +1,7 @@
 # Rotation
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Rotation>, IParsable<Rotation>
 ```
 

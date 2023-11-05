@@ -1,6 +1,7 @@
 # IEditorAttributeBase
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

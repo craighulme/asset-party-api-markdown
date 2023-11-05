@@ -1,6 +1,7 @@
 # NetworkBaseDictionary<T,U>
 
-## ```c#
+## 
+```c#
 Derives from Var
 ```
 

@@ -1,6 +1,7 @@
 # NavigationView
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

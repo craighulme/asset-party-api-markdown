@@ -1,6 +1,7 @@
 # EntityDebugFlags
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

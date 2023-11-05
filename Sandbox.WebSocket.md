@@ -1,6 +1,7 @@
 # WebSocket
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

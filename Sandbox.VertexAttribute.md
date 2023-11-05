@@ -1,6 +1,7 @@
 # VertexAttribute
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

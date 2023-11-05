@@ -1,6 +1,7 @@
 # AddPolyPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<AddPolyPathCommand>
 ```
 

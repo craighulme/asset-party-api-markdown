@@ -1,6 +1,7 @@
 # AudioMaterial
 
-## ```c#
+## 
+```c#
 Derives from GameResource
 ```
 

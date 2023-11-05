@@ -1,6 +1,7 @@
 # RenderMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

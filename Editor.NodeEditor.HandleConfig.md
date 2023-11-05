@@ -1,6 +1,7 @@
 # HandleConfig
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

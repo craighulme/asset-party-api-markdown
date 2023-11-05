@@ -1,6 +1,7 @@
 # SkyBoxReferenceEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

@@ -1,6 +1,7 @@
 # ResourcesPage
 
-## ```c#
+## 
+```c#
 Derives from BasePage
 ```
 

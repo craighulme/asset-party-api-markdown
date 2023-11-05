@@ -1,6 +1,7 @@
 # Widget
 
-## ```c#
+## 
+```c#
 Derives from QObject
 ```
 

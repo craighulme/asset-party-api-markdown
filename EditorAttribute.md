@@ -1,6 +1,7 @@
 # EditorAttribute
 
-## ```c#
+## 
+```c#
 Implements IUninheritable
 ```
 

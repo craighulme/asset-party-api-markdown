@@ -1,6 +1,7 @@
 # QuadToPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<QuadToPathCommand>
 ```
 

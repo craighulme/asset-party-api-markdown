@@ -1,6 +1,7 @@
 # SortOrder
 
-## ```c#
+## 
+```c#
 Implements IEquatable<SortOrder>
 ```
 

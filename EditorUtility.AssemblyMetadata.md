@@ -1,6 +1,7 @@
 # AssemblyMetadata
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

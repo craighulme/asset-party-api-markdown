@@ -1,6 +1,7 @@
 # GraphicsHoverEvent
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # AssetPreview
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # EditorForAssetTypeAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

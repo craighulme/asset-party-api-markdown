@@ -1,6 +1,7 @@
 # DigitalInput
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

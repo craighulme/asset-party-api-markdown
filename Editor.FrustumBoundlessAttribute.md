@@ -1,6 +1,7 @@
 # FrustumBoundlessAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

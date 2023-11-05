@@ -1,6 +1,7 @@
 # SuspendUpdates
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

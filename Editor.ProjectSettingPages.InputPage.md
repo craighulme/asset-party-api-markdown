@@ -1,6 +1,7 @@
 # InputPage
 
-## ```c#
+## 
+```c#
 Derives from BasePage
 ```
 

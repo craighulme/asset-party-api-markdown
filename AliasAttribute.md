@@ -1,6 +1,7 @@
 # AliasAttribute
 
-## ```c#
+## 
+```c#
 Implements IUninheritable
 ```
 

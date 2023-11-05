@@ -1,6 +1,7 @@
 # Small
 
-## ```c#
+## 
+```c#
 Derives from Label
 ```
 

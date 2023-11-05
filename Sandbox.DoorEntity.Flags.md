@@ -1,6 +1,7 @@
 # Flags
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

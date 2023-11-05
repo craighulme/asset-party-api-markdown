@@ -1,6 +1,7 @@
 # NavPathSegment
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

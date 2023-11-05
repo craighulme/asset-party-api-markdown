@@ -1,6 +1,7 @@
 # StringProperty
 
-## ```c#
+## 
+```c#
 Derives from LineEdit
 ```
 

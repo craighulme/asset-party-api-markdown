@@ -1,6 +1,7 @@
 # Diagnostic
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

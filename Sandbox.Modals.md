@@ -1,6 +1,8 @@
 # Sandbox.Modals Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from ValueType
 ```

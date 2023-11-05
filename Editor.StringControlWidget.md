@@ -1,6 +1,7 @@
 # StringControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

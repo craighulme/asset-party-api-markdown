@@ -1,6 +1,8 @@
 # Sandbox.ModelEditor.Nodes Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from BaseModelDocAttribute
 ```

@@ -1,6 +1,7 @@
 # AddonManifest
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

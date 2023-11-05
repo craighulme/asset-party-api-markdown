@@ -1,6 +1,7 @@
 # Length
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Length>
 ```
 

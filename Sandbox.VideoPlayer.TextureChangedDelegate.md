@@ -1,6 +1,7 @@
 # TextureChangedDelegate
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

@@ -1,7 +1,10 @@
 # Sandbox.Engine.Utility.RayTrace Namespace
 
-## ```c#
+## 
 ```c#
+
+```c#
+
 ```c#
 Derives from object
 ```

@@ -1,6 +1,7 @@
 # RangedFloat
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

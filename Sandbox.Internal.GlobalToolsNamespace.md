@@ -1,6 +1,7 @@
 # GlobalToolsNamespace
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

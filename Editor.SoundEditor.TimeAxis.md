@@ -1,6 +1,7 @@
 # TimeAxis
 
-## ```c#
+## 
+```c#
 Derives from GraphicsItem
 ```
 

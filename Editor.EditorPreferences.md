@@ -1,6 +1,7 @@
 # EditorPreferences
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

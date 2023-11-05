@@ -1,6 +1,7 @@
 # SimpleVertex
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

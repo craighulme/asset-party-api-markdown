@@ -1,6 +1,7 @@
 # Bot
 
-## ```c#
+## 
+```c#
 Implements IValid
 ```
 

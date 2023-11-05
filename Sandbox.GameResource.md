@@ -1,6 +1,7 @@
 # GameResource
 
-## ```c#
+## 
+```c#
 Derives from Resource
 ```
 

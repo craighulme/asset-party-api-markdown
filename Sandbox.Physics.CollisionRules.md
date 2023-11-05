@@ -1,6 +1,7 @@
 # CollisionRules
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

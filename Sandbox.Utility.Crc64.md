@@ -1,6 +1,7 @@
 # Crc64
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

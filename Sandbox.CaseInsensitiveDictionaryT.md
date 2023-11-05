@@ -1,6 +1,7 @@
 # CaseInsensitiveDictionary<T>
 
-## ```c#
+## 
+```c#
 Derives from Dictionary<string, T>
 ```
 

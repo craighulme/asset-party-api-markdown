@@ -1,6 +1,7 @@
 # TextureCubeBuilder
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

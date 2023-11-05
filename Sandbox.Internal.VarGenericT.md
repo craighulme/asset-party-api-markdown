@@ -1,6 +1,7 @@
 # VarGeneric<T>
 
-## ```c#
+## 
+```c#
 Derives from Var
 ```
 

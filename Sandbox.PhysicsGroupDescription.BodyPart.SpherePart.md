@@ -1,6 +1,7 @@
 # SpherePart
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

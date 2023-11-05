@@ -1,6 +1,7 @@
 # Callback
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

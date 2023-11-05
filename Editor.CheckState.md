@@ -1,6 +1,7 @@
 # CheckState
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # IToolFactory
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

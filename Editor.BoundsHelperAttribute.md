@@ -1,6 +1,7 @@
 # BoundsHelperAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

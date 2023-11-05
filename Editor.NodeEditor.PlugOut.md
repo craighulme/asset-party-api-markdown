@@ -1,6 +1,7 @@
 # PlugOut
 
-## ```c#
+## 
+```c#
 Derives from Plug
 ```
 

@@ -1,6 +1,7 @@
 # Angles
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Angles>, IParsable<Angles>
 ```
 

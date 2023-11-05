@@ -1,6 +1,7 @@
 # AssetPreviewWidget
 
-## ```c#
+## 
+```c#
 Derives from NativeRenderingWidget
 ```
 

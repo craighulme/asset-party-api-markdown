@@ -1,6 +1,7 @@
 # TextureCompileSettings
 
-## ```c#
+## 
+```c#
 Implements IAssetInspector
 ```
 

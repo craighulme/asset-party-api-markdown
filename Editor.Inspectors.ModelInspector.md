@@ -1,6 +1,7 @@
 # ModelInspector
 
-## ```c#
+## 
+```c#
 Implements IAssetInspector
 ```
 

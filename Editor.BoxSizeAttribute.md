@@ -1,6 +1,7 @@
 # BoxSizeAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

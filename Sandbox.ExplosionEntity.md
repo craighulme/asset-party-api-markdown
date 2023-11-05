@@ -1,6 +1,7 @@
 # ExplosionEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

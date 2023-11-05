@@ -1,6 +1,7 @@
 # NetworkMessageHandler
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

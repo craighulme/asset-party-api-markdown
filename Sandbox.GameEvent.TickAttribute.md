@@ -1,6 +1,7 @@
 # TickAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

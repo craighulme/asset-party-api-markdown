@@ -1,6 +1,7 @@
 # InputOutputBase
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

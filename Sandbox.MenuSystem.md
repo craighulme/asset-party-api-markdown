@@ -1,6 +1,8 @@
 # Sandbox.MenuSystem Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Implements ILobby
 ```

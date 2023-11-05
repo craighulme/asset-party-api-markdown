@@ -1,6 +1,7 @@
 # SoundPreview
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

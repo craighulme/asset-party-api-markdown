@@ -1,6 +1,7 @@
 # MultisampleAmount
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

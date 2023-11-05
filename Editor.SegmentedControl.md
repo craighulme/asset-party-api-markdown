@@ -1,6 +1,7 @@
 # SegmentedControl
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

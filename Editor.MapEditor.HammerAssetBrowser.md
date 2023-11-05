@@ -1,6 +1,7 @@
 # HammerAssetBrowser
 
-## ```c#
+## 
+```c#
 Derives from AssetBrowser
 ```
 

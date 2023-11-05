@@ -1,6 +1,7 @@
 # IntSliderProperty
 
-## ```c#
+## 
+```c#
 Derives from FloatSliderProperty
 ```
 

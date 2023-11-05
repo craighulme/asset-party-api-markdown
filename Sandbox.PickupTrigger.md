@@ -1,6 +1,7 @@
 # PickupTrigger
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

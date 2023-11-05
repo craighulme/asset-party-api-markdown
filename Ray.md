@@ -1,6 +1,7 @@
 # Ray
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Ray>
 ```
 

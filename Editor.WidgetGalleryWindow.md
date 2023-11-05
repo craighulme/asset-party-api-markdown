@@ -1,6 +1,7 @@
 # WidgetGalleryWindow
 
-## ```c#
+## 
+```c#
 Derives from BaseWindow
 ```
 

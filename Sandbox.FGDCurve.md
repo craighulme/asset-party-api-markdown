@@ -1,6 +1,7 @@
 # FGDCurve
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

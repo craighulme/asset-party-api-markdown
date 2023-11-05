@@ -1,6 +1,7 @@
 # Entry
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

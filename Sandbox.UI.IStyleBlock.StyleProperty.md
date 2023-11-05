@@ -1,6 +1,7 @@
 # StyleProperty
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

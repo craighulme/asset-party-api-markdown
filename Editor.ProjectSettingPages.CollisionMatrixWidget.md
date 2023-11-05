@@ -1,6 +1,7 @@
 # CollisionMatrixWidget
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

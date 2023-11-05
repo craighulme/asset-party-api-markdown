@@ -1,6 +1,7 @@
 # DecimalProperty
 
-## ```c#
+## 
+```c#
 Derives from FloatingPointProperty<Decimal>
 ```
 

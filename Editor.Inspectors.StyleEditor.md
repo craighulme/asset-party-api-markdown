@@ -1,6 +1,7 @@
 # StyleEditor
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

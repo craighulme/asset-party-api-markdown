@@ -1,6 +1,7 @@
 # SoundscapeRadiusEntity
 
-## ```c#
+## 
+```c#
 Implements ISoundscapeEntity
 ```
 

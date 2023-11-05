@@ -1,6 +1,7 @@
 # GameConfiguration
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # AddRoundRectPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<AddRoundRectPathCommand>
 ```
 

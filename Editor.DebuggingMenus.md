@@ -1,6 +1,7 @@
 # DebuggingMenus
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

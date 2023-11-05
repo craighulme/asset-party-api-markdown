@@ -1,6 +1,7 @@
 # ClientJoinedEvent
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

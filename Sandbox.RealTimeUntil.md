@@ -1,6 +1,7 @@
 # RealTimeUntil
 
-## ```c#
+## 
+```c#
 Implements IEquatable<RealTimeUntil>
 ```
 

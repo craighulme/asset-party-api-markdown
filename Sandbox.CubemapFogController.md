@@ -1,6 +1,7 @@
 # CubemapFogController
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

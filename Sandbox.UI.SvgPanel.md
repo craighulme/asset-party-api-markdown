@@ -1,6 +1,7 @@
 # SvgPanel
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

@@ -1,6 +1,7 @@
 # ToolBar
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

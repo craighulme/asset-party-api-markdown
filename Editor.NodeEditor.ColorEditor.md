@@ -1,6 +1,7 @@
 # ColorEditor
 
-## ```c#
+## 
+```c#
 Derives from ValueEditor
 ```
 

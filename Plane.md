@@ -1,6 +1,7 @@
 # Plane
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Plane>
 ```
 

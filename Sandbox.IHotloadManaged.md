@@ -1,6 +1,7 @@
 # IHotloadManaged
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

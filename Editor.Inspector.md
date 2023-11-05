@@ -1,6 +1,7 @@
 # Inspector
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

@@ -1,6 +1,7 @@
 # MaskMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

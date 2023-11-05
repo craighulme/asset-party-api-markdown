@@ -1,6 +1,7 @@
 # SoundscapeBoxEntity
 
-## ```c#
+## 
+```c#
 Implements ISoundscapeEntity
 ```
 

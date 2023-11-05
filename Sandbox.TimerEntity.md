@@ -1,6 +1,7 @@
 # TimerEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

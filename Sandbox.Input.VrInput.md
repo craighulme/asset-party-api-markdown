@@ -1,6 +1,7 @@
 # VrInput
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

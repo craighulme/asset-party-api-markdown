@@ -1,6 +1,7 @@
 # DecibelSliderProperty
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

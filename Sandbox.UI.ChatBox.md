@@ -1,6 +1,7 @@
 # ChatBox
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

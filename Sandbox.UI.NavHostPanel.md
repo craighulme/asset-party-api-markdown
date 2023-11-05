@@ -1,6 +1,7 @@
 # NavHostPanel
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

@@ -1,6 +1,7 @@
 # VideoNativeWidget
 
-## ```c#
+## 
+```c#
 Derives from NativeRenderingWidget
 ```
 

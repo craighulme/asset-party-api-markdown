@@ -1,6 +1,7 @@
 # SurroundingBoundsType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

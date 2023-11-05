@@ -1,6 +1,7 @@
 # BoolProperty
 
-## ```c#
+## 
+```c#
 Derives from CheckBox
 ```
 

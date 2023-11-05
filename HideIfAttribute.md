@@ -1,6 +1,7 @@
 # HideIfAttribute
 
-## ```c#
+## 
+```c#
 Derives from ConditionalVisibilityAttribute
 ```
 

@@ -1,6 +1,7 @@
 # SpotLightEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

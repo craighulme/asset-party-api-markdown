@@ -1,6 +1,7 @@
 # Resource
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

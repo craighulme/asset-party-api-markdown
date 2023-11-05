@@ -1,6 +1,7 @@
 # SceneFogVolume
 
-## ```c#
+## 
+```c#
 Implements IValid
 ```
 

@@ -1,6 +1,7 @@
 # MaskScope
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

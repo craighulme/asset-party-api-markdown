@@ -1,6 +1,7 @@
 # GradientFogController
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

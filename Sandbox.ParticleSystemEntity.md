@@ -1,6 +1,7 @@
 # ParticleSystemEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

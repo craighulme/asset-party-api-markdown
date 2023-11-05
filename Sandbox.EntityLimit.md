@@ -1,6 +1,7 @@
 # EntityLimit
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

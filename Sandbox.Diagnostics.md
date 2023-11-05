@@ -1,6 +1,8 @@
 # Sandbox.Diagnostics Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from object
 ```

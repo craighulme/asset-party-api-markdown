@@ -1,6 +1,7 @@
 # VisibilityBoxEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

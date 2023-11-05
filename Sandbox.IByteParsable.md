@@ -1,6 +1,7 @@
 # IByteParsable
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

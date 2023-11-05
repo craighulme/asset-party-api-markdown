@@ -1,6 +1,8 @@
 # System.Collections.ObjectModel Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from ValueType
 ```

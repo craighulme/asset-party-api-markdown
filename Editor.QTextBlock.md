@@ -1,6 +1,7 @@
 # QTextBlock
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

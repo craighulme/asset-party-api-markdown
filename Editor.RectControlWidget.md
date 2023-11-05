@@ -1,6 +1,7 @@
 # RectControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

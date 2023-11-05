@@ -1,6 +1,7 @@
 # AxisConfig
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

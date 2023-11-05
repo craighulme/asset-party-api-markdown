@@ -1,6 +1,7 @@
 # ConnectedAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

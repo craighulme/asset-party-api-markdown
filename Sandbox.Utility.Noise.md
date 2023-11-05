@@ -1,6 +1,7 @@
 # Noise
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

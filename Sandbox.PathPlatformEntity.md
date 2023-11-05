@@ -1,6 +1,7 @@
 # PathPlatformEntity
 
-## ```c#
+## 
+```c#
 Derives from KeyframeEntity
 ```
 

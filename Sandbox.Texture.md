@@ -1,6 +1,7 @@
 # Texture
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

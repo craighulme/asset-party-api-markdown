@@ -1,6 +1,7 @@
 # ModelDoc
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # NodeInput
 
-## ```c#
+## 
+```c#
 Implements IValid
 ```
 

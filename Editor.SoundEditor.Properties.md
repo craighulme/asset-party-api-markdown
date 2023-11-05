@@ -1,6 +1,7 @@
 # Properties
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

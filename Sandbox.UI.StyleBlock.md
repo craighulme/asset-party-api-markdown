@@ -1,6 +1,7 @@
 # StyleBlock
 
-## ```c#
+## 
+```c#
 Implements IStyleBlock
 ```
 

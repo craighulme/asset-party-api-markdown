@@ -1,6 +1,7 @@
 # BasePage
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

@@ -1,6 +1,7 @@
 # FixedJoint
 
-## ```c#
+## 
+```c#
 Derives from PhysicsJoint
 ```
 

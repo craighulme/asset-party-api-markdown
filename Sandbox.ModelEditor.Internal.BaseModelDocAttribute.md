@@ -1,6 +1,7 @@
 # BaseModelDocAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

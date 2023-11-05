@@ -1,6 +1,7 @@
 # ResourceControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

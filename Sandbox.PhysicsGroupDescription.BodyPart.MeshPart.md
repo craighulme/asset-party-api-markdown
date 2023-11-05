@@ -1,6 +1,7 @@
 # MeshPart
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

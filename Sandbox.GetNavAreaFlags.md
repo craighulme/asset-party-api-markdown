@@ -1,6 +1,7 @@
 # GetNavAreaFlags
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

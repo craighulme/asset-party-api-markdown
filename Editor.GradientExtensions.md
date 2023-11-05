@@ -1,6 +1,7 @@
 # GradientExtensions
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

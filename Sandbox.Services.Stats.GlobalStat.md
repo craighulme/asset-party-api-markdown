@@ -1,6 +1,7 @@
 # GlobalStat
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

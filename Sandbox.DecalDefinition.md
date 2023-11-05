@@ -1,6 +1,7 @@
 # DecalDefinition
 
-## ```c#
+## 
+```c#
 Derives from GameResource
 ```
 

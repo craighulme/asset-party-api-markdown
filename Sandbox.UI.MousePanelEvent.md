@@ -1,6 +1,7 @@
 # MousePanelEvent
 
-## ```c#
+## 
+```c#
 Derives from PanelEvent
 ```
 

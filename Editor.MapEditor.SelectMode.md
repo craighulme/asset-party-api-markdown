@@ -1,6 +1,7 @@
 # SelectMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

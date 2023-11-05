@@ -1,6 +1,7 @@
 # PositionMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

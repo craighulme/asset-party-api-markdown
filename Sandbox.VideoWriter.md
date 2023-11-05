@@ -1,6 +1,7 @@
 # VideoWriter
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

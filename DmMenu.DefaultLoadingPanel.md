@@ -1,6 +1,7 @@
 # DefaultLoadingPanel
 
-## ```c#
+## 
+```c#
 Implements ILoadingScreenPanel
 ```
 

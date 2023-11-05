@@ -1,6 +1,7 @@
 # StartAsState
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

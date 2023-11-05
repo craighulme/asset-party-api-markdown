@@ -1,6 +1,7 @@
 # VideoDisplayMode
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

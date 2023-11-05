@@ -1,6 +1,7 @@
 # VolumetricFog
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

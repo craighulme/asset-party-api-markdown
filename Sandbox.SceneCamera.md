@@ -1,6 +1,7 @@
 # SceneCamera
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

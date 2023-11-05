@@ -1,6 +1,7 @@
 # Hitbox
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

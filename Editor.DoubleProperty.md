@@ -1,6 +1,7 @@
 # DoubleProperty
 
-## ```c#
+## 
+```c#
 Derives from FloatingPointProperty<double>
 ```
 

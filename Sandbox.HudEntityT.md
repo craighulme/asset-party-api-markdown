@@ -1,6 +1,7 @@
 # HudEntity<T>
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

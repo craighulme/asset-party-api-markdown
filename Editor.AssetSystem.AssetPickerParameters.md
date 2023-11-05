@@ -1,6 +1,7 @@
 # AssetPickerParameters
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

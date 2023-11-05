@@ -1,6 +1,7 @@
 # SpringConstraint
 
-## ```c#
+## 
+```c#
 Derives from BaseConstraint
 ```
 

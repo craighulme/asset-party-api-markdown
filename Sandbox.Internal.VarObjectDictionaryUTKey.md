@@ -1,6 +1,7 @@
 # VarObjectDictionaryU<TKey>
 
-## ```c#
+## 
+```c#
 Derives from NetworkBaseDictionary<TKey, object>
 ```
 

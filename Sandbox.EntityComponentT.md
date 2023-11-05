@@ -1,6 +1,7 @@
 # EntityComponent<T>
 
-## ```c#
+## 
+```c#
 Derives from EntityComponent
 ```
 

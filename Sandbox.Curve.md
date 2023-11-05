@@ -1,6 +1,7 @@
 # Curve
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # NetworkTable
 
-## ```c#
+## 
+```c#
 Implements IValid
 ```
 

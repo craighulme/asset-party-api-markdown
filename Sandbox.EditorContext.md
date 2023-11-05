@@ -1,6 +1,7 @@
 # EditorContext
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

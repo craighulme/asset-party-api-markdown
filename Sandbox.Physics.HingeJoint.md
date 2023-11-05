@@ -1,6 +1,7 @@
 # HingeJoint
 
-## ```c#
+## 
+```c#
 Derives from PhysicsJoint
 ```
 

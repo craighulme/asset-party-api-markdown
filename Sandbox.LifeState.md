@@ -1,6 +1,7 @@
 # LifeState
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

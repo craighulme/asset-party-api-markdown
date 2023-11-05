@@ -1,6 +1,7 @@
 # ButtonMoveType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

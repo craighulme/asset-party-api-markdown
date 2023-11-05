@@ -1,6 +1,7 @@
 # BrushEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

@@ -1,6 +1,7 @@
 # Color
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Color>
 ```
 

@@ -1,6 +1,7 @@
 # SpawnableAttribute
 
-## ```c#
+## 
+```c#
 Implements IUninheritable
 ```
 

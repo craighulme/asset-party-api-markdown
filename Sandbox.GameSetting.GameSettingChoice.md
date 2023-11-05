@@ -1,6 +1,7 @@
 # GameSettingChoice
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

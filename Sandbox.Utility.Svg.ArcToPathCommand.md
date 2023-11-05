@@ -1,6 +1,7 @@
 # ArcToPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<ArcToPathCommand>
 ```
 

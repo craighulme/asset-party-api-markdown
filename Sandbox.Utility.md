@@ -1,6 +1,8 @@
 # Sandbox.Utility Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from object
 ```

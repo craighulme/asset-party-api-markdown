@@ -1,6 +1,7 @@
 # PasteEvent
 
-## ```c#
+## 
+```c#
 Derives from PanelEvent
 ```
 

@@ -1,6 +1,7 @@
 # WordBreak
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # SerializedObject
 
-## ```c#
+## 
+```c#
 Implements IEnumerable<SerializedProperty>
 ```
 

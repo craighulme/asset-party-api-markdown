@@ -1,6 +1,7 @@
 # PublishSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

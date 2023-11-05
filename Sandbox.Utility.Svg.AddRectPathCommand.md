@@ -1,6 +1,7 @@
 # AddRectPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<AddRectPathCommand>
 ```
 

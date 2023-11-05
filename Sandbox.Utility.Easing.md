@@ -1,6 +1,7 @@
 # Easing
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

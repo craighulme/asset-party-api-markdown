@@ -1,6 +1,7 @@
 # HideInEditorAttribute
 
-## ```c#
+## 
+```c#
 Implements IUninheritable
 ```
 

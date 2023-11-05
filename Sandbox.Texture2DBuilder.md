@@ -1,6 +1,7 @@
 # Texture2DBuilder
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

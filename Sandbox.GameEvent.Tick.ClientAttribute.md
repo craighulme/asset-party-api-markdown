@@ -1,6 +1,7 @@
 # ClientAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

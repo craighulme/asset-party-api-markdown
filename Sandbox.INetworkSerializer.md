@@ -1,6 +1,7 @@
 # INetworkSerializer
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

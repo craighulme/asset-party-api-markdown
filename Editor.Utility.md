@@ -1,6 +1,7 @@
 # Utility
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

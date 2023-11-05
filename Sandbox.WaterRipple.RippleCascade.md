@@ -1,6 +1,7 @@
 # RippleCascade
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

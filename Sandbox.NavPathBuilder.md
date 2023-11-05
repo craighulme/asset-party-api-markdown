@@ -1,6 +1,7 @@
 # NavPathBuilder
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

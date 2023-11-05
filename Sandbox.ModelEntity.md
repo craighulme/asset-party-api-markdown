@@ -1,6 +1,7 @@
 # ModelEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

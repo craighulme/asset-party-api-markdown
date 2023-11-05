@@ -1,6 +1,7 @@
 # BaseWindow
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

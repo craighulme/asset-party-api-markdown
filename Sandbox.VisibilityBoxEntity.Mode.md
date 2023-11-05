@@ -1,6 +1,7 @@
 # Mode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

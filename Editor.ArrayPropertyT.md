@@ -1,6 +1,7 @@
 # ArrayProperty<T>
 
-## ```c#
+## 
+```c#
 Derives from ListProperty<T>
 ```
 

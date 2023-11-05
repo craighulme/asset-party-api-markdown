@@ -1,6 +1,7 @@
 # EntityTarget
 
-## ```c#
+## 
+```c#
 Implements INetworkSerializer
 ```
 

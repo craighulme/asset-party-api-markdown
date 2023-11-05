@@ -1,6 +1,7 @@
 # PointLightEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

@@ -1,6 +1,7 @@
 # VideoGallery
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

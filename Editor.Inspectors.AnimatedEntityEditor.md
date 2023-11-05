@@ -1,6 +1,7 @@
 # AnimatedEntityEditor
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

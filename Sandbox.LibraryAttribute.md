@@ -1,6 +1,7 @@
 # LibraryAttribute
 
-## ```c#
+## 
+```c#
 Implements ITitleProvider, IDescriptionProvider, IClassNameProvider, IUninheritable
 ```
 

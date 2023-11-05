@@ -1,6 +1,7 @@
 # NavigationExtensions
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

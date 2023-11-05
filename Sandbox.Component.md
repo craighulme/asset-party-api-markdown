@@ -1,6 +1,8 @@
 # Sandbox.Component Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from EntityComponent<ModelEntity>
 ```

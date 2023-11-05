@@ -1,6 +1,7 @@
 # BasePathNode
 
-## ```c#
+## 
+```c#
 Implements IBasePathNode
 ```
 

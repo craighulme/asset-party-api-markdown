@@ -1,6 +1,8 @@
 # Sandbox.Bind Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from ValueType
 ```

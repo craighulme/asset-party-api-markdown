@@ -1,6 +1,7 @@
 # Frustum
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Frustum>
 ```
 

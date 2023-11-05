@@ -1,6 +1,7 @@
 # IBaseInventory
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

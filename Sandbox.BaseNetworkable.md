@@ -1,6 +1,7 @@
 # BaseNetworkable
 
-## ```c#
+## 
+```c#
 Implements INetworkTable
 ```
 

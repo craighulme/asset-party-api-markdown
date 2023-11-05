@@ -1,6 +1,7 @@
 # MarginControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

@@ -1,6 +1,7 @@
 # EditorSpriteAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

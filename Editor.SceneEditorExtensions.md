@@ -1,6 +1,7 @@
 # SceneEditorExtensions
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # MimicBot
 
-## ```c#
+## 
+```c#
 Derives from Bot
 ```
 

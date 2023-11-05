@@ -1,6 +1,7 @@
 # BitFlagsAttribute
 
-## ```c#
+## 
+```c#
 Derives from FGDTypeAttribute
 ```
 

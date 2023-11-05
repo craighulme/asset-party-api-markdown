@@ -1,6 +1,7 @@
 # TraceResult
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

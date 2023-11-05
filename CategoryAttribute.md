@@ -1,6 +1,7 @@
 # CategoryAttribute
 
-## ```c#
+## 
+```c#
 Implements ICategoryProvider, IUninheritable
 ```
 

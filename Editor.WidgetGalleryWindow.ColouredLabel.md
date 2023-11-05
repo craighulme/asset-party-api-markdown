@@ -1,6 +1,7 @@
 # ColouredLabel
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

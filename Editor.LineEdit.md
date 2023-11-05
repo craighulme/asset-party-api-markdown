@@ -1,6 +1,7 @@
 # LineEdit
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

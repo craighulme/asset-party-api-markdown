@@ -1,6 +1,7 @@
 # VarEmbedDictionaryU<TKey,TVal>
 
-## ```c#
+## 
+```c#
 Derives from VarEmbedDictionary<TKey, TVal>
 ```
 

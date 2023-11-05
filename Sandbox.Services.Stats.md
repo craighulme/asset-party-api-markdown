@@ -1,6 +1,7 @@
 # Stats
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

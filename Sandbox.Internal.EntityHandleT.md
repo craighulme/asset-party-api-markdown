@@ -1,6 +1,7 @@
 # EntityHandle<T>
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

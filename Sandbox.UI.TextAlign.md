@@ -1,6 +1,7 @@
 # TextAlign
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # IComponent
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

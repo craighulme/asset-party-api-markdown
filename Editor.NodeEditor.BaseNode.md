@@ -1,6 +1,7 @@
 # BaseNode
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

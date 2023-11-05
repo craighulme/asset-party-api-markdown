@@ -1,6 +1,7 @@
 # IDescriptionProvider
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

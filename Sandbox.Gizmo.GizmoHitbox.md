@@ -1,6 +1,7 @@
 # GizmoHitbox
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

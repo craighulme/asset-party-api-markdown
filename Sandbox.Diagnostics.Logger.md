@@ -1,6 +1,7 @@
 # Logger
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

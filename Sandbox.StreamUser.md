@@ -1,6 +1,7 @@
 # StreamUser
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

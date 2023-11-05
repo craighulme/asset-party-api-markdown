@@ -1,6 +1,7 @@
 # ColorFrame
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

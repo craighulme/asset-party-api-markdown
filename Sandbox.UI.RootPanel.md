@@ -1,6 +1,7 @@
 # RootPanel
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

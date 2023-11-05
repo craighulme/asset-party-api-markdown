@@ -1,6 +1,7 @@
 # InputGlyphSize
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

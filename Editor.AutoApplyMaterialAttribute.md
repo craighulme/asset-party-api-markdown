@@ -1,6 +1,7 @@
 # AutoApplyMaterialAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

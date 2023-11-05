@@ -1,6 +1,7 @@
 # ClassNameAttribute
 
-## ```c#
+## 
+```c#
 Implements IClassNameProvider, IUninheritable
 ```
 

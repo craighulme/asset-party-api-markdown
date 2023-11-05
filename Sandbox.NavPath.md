@@ -1,6 +1,7 @@
 # NavPath
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

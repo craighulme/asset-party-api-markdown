@@ -1,6 +1,7 @@
 # SizeMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

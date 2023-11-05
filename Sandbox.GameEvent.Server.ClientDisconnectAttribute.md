@@ -1,6 +1,7 @@
 # ClientDisconnectAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

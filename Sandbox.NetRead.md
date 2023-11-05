@@ -1,6 +1,7 @@
 # NetRead
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

@@ -1,6 +1,7 @@
 # ColorStringWidget
 
-## ```c#
+## 
+```c#
 Derives from StringControlWidget
 ```
 

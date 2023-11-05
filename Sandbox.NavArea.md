@@ -1,6 +1,7 @@
 # NavArea
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

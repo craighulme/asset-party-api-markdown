@@ -1,6 +1,7 @@
 # IInputControl
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

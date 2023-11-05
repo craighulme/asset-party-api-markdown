@@ -1,6 +1,7 @@
 # DockProperty
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # DragData
 
-## ```c#
+## 
+```c#
 Derives from QObject
 ```
 

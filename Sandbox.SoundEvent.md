@@ -1,6 +1,7 @@
 # SoundEvent
 
-## ```c#
+## 
+```c#
 Derives from GameResource
 ```
 

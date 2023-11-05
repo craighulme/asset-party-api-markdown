@@ -1,6 +1,7 @@
 # Filter
 
-## ```c#
+## 
+```c#
 Derives from LineEdit
 ```
 

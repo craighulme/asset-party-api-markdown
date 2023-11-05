@@ -1,6 +1,7 @@
 # RotationControlWidget
 
-## ```c#
+## 
+```c#
 Derives from ControlWidget
 ```
 

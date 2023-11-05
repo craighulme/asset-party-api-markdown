@@ -1,6 +1,7 @@
 # ParticleSnapshot
 
-## ```c#
+## 
+```c#
 Derives from Resource
 ```
 

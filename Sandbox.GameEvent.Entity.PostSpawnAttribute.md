@@ -1,6 +1,7 @@
 # PostSpawnAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

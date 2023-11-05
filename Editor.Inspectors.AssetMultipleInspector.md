@@ -1,6 +1,7 @@
 # AssetMultipleInspector
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

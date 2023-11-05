@@ -1,6 +1,7 @@
 # CompilerSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

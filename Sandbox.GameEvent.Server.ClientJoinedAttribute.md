@@ -1,6 +1,7 @@
 # ClientJoinedAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

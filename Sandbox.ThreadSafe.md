@@ -1,6 +1,7 @@
 # ThreadSafe
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

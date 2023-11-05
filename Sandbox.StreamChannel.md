@@ -1,6 +1,7 @@
 # StreamChannel
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

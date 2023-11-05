@@ -1,6 +1,8 @@
 # Editor.Inspectors Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Implements IAssetEditor
 ```

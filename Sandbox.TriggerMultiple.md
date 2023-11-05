@@ -1,6 +1,7 @@
 # TriggerMultiple
 
-## ```c#
+## 
+```c#
 Derives from BaseTrigger
 ```
 

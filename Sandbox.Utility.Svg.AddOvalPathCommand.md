@@ -1,6 +1,7 @@
 # AddOvalPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<AddOvalPathCommand>
 ```
 

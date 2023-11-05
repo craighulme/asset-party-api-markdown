@@ -1,6 +1,7 @@
 # Global
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # Entry
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

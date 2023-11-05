@@ -1,6 +1,7 @@
 # GameDataAttribute
 
-## ```c#
+## 
+```c#
 Derives from LibraryAttribute
 ```
 

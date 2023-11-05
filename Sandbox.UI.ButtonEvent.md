@@ -1,6 +1,7 @@
 # ButtonEvent
 
-## ```c#
+## 
+```c#
 Implements IEquatable<ButtonEvent>
 ```
 

@@ -1,6 +1,7 @@
 # Soundscape
 
-## ```c#
+## 
+```c#
 Derives from GameResource
 ```
 

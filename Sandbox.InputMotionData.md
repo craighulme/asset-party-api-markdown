@@ -1,6 +1,7 @@
 # InputMotionData
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

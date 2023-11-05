@@ -1,6 +1,7 @@
 # GenericPathEntity
 
-## ```c#
+## 
+```c#
 Derives from BasePathEntity<BasePathNode>
 ```
 

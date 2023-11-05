@@ -1,6 +1,7 @@
 # Justify
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

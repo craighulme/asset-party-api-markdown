@@ -1,6 +1,7 @@
 # Entity
 
-## ```c#
+## 
+```c#
 Implements IEntity
 ```
 

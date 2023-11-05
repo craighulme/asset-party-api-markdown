@@ -1,6 +1,7 @@
 # ServerAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

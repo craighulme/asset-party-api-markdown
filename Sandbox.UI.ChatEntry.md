@@ -1,6 +1,7 @@
 # ChatEntry
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

@@ -1,6 +1,7 @@
 # Glow
 
-## ```c#
+## 
+```c#
 Derives from EntityComponent<ModelEntity>
 ```
 

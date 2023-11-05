@@ -1,6 +1,7 @@
 # TextEntryConstructor
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

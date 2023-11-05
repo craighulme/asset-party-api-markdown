@@ -1,6 +1,7 @@
 # VertexDetail
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

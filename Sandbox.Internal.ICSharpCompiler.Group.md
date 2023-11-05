@@ -1,6 +1,7 @@
 # Group
 
-## ```c#
+## 
+```c#
 Implements IEquatable<Group>
 ```
 

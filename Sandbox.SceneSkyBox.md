@@ -1,6 +1,7 @@
 # SceneSkyBox
 
-## ```c#
+## 
+```c#
 Derives from SceneObject
 ```
 

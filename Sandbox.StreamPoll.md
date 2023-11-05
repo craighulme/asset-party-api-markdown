@@ -1,6 +1,7 @@
 # StreamPoll
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

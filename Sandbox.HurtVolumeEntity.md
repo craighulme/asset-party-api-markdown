@@ -1,6 +1,7 @@
 # HurtVolumeEntity
 
-## ```c#
+## 
+```c#
 Derives from BaseTrigger
 ```
 

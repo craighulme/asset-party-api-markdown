@@ -1,6 +1,7 @@
 # GameSetting
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

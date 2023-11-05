@@ -1,6 +1,7 @@
 # Player
 
-## ```c#
+## 
+```c#
 Derives from AnimatedEntity
 ```
 

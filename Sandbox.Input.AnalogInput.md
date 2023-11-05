@@ -1,6 +1,7 @@
 # AnalogInput
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

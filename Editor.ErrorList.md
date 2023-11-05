@@ -1,6 +1,7 @@
 # ErrorList
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

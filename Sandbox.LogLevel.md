@@ -1,6 +1,7 @@
 # LogLevel
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

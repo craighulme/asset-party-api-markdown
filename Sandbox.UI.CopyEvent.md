@@ -1,6 +1,7 @@
 # CopyEvent
 
-## ```c#
+## 
+```c#
 Derives from PanelEvent
 ```
 

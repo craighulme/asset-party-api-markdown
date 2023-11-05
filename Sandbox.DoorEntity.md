@@ -1,6 +1,7 @@
 # DoorEntity
 
-## ```c#
+## 
+```c#
 Implements IUse
 ```
 

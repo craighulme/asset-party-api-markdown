@@ -1,6 +1,7 @@
 # TextCursor
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

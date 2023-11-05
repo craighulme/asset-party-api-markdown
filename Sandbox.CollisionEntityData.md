@@ -1,6 +1,7 @@
 # CollisionEntityData
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

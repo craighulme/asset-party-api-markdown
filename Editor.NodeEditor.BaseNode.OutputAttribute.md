@@ -1,6 +1,7 @@
 # OutputAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

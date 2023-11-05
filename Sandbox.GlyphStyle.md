@@ -1,6 +1,7 @@
 # GlyphStyle
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

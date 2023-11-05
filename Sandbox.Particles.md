@@ -1,6 +1,7 @@
 # Particles
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

@@ -1,6 +1,7 @@
 # NetworkDisconnectionReason
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

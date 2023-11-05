@@ -1,6 +1,7 @@
 # GraphicsItem
 
-## ```c#
+## 
+```c#
 Implements IValid
 ```
 

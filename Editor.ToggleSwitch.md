@@ -1,6 +1,7 @@
 # ToggleSwitch
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

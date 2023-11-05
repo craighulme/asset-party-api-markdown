@@ -1,6 +1,7 @@
 # PrecipitationEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

@@ -1,6 +1,7 @@
 # CodeGeneratorAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

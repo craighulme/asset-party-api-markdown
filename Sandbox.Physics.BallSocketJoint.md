@@ -1,6 +1,7 @@
 # BallSocketJoint
 
-## ```c#
+## 
+```c#
 Derives from PhysicsJoint
 ```
 

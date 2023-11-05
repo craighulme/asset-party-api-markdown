@@ -1,6 +1,8 @@
 # Editor.Assets Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from object
 ```

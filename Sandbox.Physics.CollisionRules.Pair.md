@@ -1,6 +1,7 @@
 # Pair
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

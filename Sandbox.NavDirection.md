@@ -1,6 +1,7 @@
 # NavDirection
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

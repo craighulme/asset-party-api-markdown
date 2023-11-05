@@ -1,6 +1,7 @@
 # WorldTextEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

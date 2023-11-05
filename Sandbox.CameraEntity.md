@@ -1,6 +1,7 @@
 # CameraEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

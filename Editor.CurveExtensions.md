@@ -1,6 +1,7 @@
 # CurveExtensions
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # Parallel
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

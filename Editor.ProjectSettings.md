@@ -1,6 +1,7 @@
 # ProjectSettings
 
-## ```c#
+## 
+```c#
 Derives from BaseWindow
 ```
 

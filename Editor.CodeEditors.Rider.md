@@ -1,6 +1,7 @@
 # Rider
 
-## ```c#
+## 
+```c#
 Implements ICodeEditor
 ```
 

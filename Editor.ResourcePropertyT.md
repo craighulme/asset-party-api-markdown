@@ -1,6 +1,7 @@
 # ResourceProperty<T>
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

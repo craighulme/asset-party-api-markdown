@@ -1,6 +1,7 @@
 # LineAttribute
 
-## ```c#
+## 
+```c#
 Derives from BaseModelDocAttribute
 ```
 

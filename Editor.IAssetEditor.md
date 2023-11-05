@@ -1,6 +1,7 @@
 # IAssetEditor
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

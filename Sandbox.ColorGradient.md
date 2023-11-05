@@ -1,6 +1,7 @@
 # ColorGradient
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # Leaderboards
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # TeleportVolumeEntity
 
-## ```c#
+## 
+```c#
 Derives from BaseTrigger
 ```
 

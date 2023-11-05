@@ -1,6 +1,7 @@
 # MarginProperty
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

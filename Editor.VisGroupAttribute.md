@@ -1,6 +1,7 @@
 # VisGroupAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

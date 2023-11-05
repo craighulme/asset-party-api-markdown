@@ -1,6 +1,8 @@
 # Editor.Graphic Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from object
 ```

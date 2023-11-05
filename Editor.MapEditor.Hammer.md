@@ -1,6 +1,7 @@
 # Hammer
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

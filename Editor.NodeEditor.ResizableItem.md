@@ -1,6 +1,7 @@
 # ResizableItem
 
-## ```c#
+## 
+```c#
 Derives from GraphicsItem
 ```
 

@@ -1,6 +1,7 @@
 # WidgetSignal
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

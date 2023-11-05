@@ -1,6 +1,7 @@
 # SwitchControl
 
-## ```c#
+## 
+```c#
 Derives from BaseControl
 ```
 

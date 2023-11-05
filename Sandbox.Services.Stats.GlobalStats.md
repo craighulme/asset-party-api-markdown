@@ -1,6 +1,7 @@
 # GlobalStats
 
-## ```c#
+## 
+```c#
 Implements IEnumerable<GlobalStat>
 ```
 

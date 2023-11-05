@@ -1,6 +1,7 @@
 # ColorProperty
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

@@ -1,6 +1,7 @@
 # VRTrackedDevice
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

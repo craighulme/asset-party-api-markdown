@@ -1,6 +1,7 @@
 # MessageReceivedHandler
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

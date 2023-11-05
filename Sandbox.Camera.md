@@ -1,6 +1,7 @@
 # Camera
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

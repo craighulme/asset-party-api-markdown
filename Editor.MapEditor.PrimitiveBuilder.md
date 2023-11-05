@@ -1,6 +1,7 @@
 # PrimitiveBuilder
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

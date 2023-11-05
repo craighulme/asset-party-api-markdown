@@ -1,6 +1,7 @@
 # CurveEditorToolbar
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

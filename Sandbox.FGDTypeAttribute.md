@@ -1,6 +1,7 @@
 # FGDTypeAttribute
 
-## ```c#
+## 
+```c#
 Derives from Attribute
 ```
 

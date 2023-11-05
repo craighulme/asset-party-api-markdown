@@ -1,6 +1,7 @@
 # BasePhysicsComponent
 
-## ```c#
+## 
+```c#
 Derives from EntityComponent
 ```
 

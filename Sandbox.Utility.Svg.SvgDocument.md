@@ -1,6 +1,7 @@
 # SvgDocument
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

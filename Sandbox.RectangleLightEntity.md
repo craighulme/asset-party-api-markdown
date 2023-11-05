@@ -1,6 +1,7 @@
 # RectangleLightEntity
 
-## ```c#
+## 
+```c#
 Derives from PointLightEntity
 ```
 

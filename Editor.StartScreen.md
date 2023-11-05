@@ -1,6 +1,7 @@
 # StartScreen
 
-## ```c#
+## 
+```c#
 Derives from BaseWindow
 ```
 

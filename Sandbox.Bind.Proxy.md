@@ -1,6 +1,7 @@
 # Proxy
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

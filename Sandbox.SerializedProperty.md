@@ -1,6 +1,7 @@
 # SerializedProperty
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

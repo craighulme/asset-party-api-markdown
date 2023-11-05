@@ -1,6 +1,7 @@
 # ITypeAttribute
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

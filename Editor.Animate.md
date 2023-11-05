@@ -1,6 +1,7 @@
 # Animate
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

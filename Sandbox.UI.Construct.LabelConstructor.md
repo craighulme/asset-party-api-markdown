@@ -1,6 +1,7 @@
 # LabelConstructor
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

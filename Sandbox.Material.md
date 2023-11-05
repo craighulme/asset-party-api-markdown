@@ -1,6 +1,7 @@
 # Material
 
-## ```c#
+## 
+```c#
 Derives from Resource
 ```
 

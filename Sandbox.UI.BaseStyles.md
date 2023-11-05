@@ -1,6 +1,7 @@
 # BaseStyles
 
-## ```c#
+## 
+```c#
 Implements ICloneable
 ```
 

@@ -1,6 +1,7 @@
 # FrameAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

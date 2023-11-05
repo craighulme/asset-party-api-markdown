@@ -1,6 +1,7 @@
 # PlayerStats
 
-## ```c#
+## 
+```c#
 Implements IEnumerable<PlayerStat>
 ```
 

@@ -1,6 +1,7 @@
 # Panel
 
-## ```c#
+## 
+```c#
 Implements IPanel
 ```
 

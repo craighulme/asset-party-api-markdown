@@ -1,6 +1,8 @@
 # Editor.SoundEditor Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Widget
 ```

@@ -1,6 +1,8 @@
 # Editor.CodeEditors Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from object
 ```

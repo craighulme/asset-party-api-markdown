@@ -1,6 +1,7 @@
 # InformationBox
 
-## ```c#
+## 
+```c#
 Derives from WarningBox
 ```
 

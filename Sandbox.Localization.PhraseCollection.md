@@ -1,6 +1,7 @@
 # PhraseCollection
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # ModelRandomColor
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

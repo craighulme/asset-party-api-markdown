@@ -1,6 +1,7 @@
 # EntityComponent
 
-## ```c#
+## 
+```c#
 Implements IComponent
 ```
 

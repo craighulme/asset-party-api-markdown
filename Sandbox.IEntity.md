@@ -1,6 +1,7 @@
 # IEntity
 
-## ```c#
+## 
+```c#
 Inherits IValid
 ```
 

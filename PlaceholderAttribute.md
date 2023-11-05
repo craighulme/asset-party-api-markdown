@@ -1,6 +1,7 @@
 # PlaceholderAttribute
 
-## ```c#
+## 
+```c#
 Implements IPlaceholderProvider, IUninheritable
 ```
 

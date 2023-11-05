@@ -1,6 +1,7 @@
 # SpawnPoint
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

@@ -1,6 +1,7 @@
 # Auth
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

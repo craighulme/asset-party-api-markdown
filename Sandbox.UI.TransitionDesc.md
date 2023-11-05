@@ -1,6 +1,7 @@
 # TransitionDesc
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

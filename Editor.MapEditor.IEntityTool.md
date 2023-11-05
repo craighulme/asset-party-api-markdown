@@ -1,6 +1,7 @@
 # IEntityTool
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

@@ -1,6 +1,7 @@
 # GlobalSystemNamespace
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

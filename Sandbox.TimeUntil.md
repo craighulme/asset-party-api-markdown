@@ -1,6 +1,7 @@
 # TimeUntil
 
-## ```c#
+## 
+```c#
 Implements IEquatable<TimeUntil>
 ```
 

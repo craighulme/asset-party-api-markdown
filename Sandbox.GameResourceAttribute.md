@@ -1,6 +1,7 @@
 # GameResourceAttribute
 
-## ```c#
+## 
+```c#
 Implements ITypeAttribute, IUninheritable
 ```
 

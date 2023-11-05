@@ -1,6 +1,7 @@
 # BaseControl
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

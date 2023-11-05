@@ -1,6 +1,8 @@
 # Editor.TextureEditor Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Enum
 ```

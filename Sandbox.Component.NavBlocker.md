@@ -1,6 +1,7 @@
 # NavBlocker
 
-## ```c#
+## 
+```c#
 Derives from EntityComponent
 ```
 

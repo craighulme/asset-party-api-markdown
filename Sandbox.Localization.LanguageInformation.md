@@ -1,6 +1,7 @@
 # LanguageInformation
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # NavLinkPanel
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

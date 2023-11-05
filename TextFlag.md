@@ -1,6 +1,7 @@
 # TextFlag
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

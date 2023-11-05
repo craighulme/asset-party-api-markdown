@@ -1,6 +1,7 @@
 # DisplayInfo
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

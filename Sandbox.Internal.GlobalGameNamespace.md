@@ -1,6 +1,7 @@
 # GlobalGameNamespace
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

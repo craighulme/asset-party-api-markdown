@@ -1,6 +1,7 @@
 # Tick
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

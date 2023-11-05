@@ -1,6 +1,7 @@
 # Output
 
-## ```c#
+## 
+```c#
 Derives from InputOutputBase
 ```
 

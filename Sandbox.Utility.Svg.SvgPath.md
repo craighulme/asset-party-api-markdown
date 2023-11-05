@@ -1,6 +1,7 @@
 # SvgPath
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # GameTask
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

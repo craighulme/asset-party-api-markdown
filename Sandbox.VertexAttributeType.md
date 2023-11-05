@@ -1,6 +1,7 @@
 # VertexAttributeType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # DiagnosticSeverity
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

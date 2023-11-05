@@ -1,6 +1,7 @@
 # VignetteSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

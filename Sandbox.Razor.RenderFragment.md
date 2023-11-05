@@ -1,6 +1,7 @@
 # RenderFragment
 
-## ```c#
+## 
+```c#
 Derives from MulticastDelegate
 ```
 

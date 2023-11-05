@@ -1,6 +1,7 @@
 # HammerEntityAttribute
 
-## ```c#
+## 
+```c#
 Implements IUninheritable
 ```
 

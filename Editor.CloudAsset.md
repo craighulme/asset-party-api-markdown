@@ -1,6 +1,7 @@
 # CloudAsset
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

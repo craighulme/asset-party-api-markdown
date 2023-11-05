@@ -1,6 +1,7 @@
 # EnvironmentLightEntity
 
-## ```c#
+## 
+```c#
 Derives from Entity
 ```
 

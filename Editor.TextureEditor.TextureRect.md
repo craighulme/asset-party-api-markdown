@@ -1,6 +1,7 @@
 # TextureRect
 
-## ```c#
+## 
+```c#
 Derives from SceneCustomObject
 ```
 

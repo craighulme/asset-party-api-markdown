@@ -1,6 +1,8 @@
 # Sandbox.Tasks Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from Entity
 ```

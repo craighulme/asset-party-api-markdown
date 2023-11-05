@@ -1,6 +1,7 @@
 # SyncTask
 
-## ```c#
+## 
+```c#
 Implements INotifyCompletion
 ```
 

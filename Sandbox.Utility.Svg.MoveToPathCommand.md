@@ -1,6 +1,7 @@
 # MoveToPathCommand
 
-## ```c#
+## 
+```c#
 Implements IEquatable<MoveToPathCommand>
 ```
 

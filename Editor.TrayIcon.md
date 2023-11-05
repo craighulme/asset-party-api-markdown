@@ -1,6 +1,7 @@
 # TrayIcon
 
-## ```c#
+## 
+```c#
 Derives from QObject
 ```
 

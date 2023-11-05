@@ -1,6 +1,7 @@
 # BindCollection
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # ResourceLibrary
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

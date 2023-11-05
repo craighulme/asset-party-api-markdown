@@ -1,6 +1,7 @@
 # SoundFileCompileSettings
 
-## ```c#
+## 
+```c#
 Implements IAssetInspector
 ```
 

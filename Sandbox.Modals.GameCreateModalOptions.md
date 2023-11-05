@@ -1,6 +1,7 @@
 # GameCreateModalOptions
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

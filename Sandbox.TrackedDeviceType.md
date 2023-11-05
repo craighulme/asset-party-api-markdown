@@ -1,6 +1,7 @@
 # TrackedDeviceType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

@@ -1,6 +1,7 @@
 # SizeChangedAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

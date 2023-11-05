@@ -1,6 +1,7 @@
 # FileWatch
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

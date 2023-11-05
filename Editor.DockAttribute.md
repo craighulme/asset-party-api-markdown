@@ -1,6 +1,7 @@
 # DockAttribute
 
-## ```c#
+## 
+```c#
 Implements ITypeAttribute
 ```
 

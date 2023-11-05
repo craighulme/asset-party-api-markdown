@@ -1,6 +1,7 @@
 # Emoji
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

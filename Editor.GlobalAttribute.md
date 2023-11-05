@@ -1,6 +1,7 @@
 # GlobalAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

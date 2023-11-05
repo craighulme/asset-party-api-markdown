@@ -1,6 +1,7 @@
 # InputAction
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

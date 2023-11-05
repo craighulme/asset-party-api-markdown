@@ -1,6 +1,7 @@
 # NavBlockerEntity
 
-## ```c#
+## 
+```c#
 Derives from ModelEntity
 ```
 

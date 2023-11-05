@@ -1,6 +1,7 @@
 # IModalSystem
 
-## ```c#
+## 
+```c#
 Is interface
 ```
 

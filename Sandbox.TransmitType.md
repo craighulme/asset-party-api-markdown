@@ -1,6 +1,7 @@
 # TransmitType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

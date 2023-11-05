@@ -1,6 +1,7 @@
 # TagEntry
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

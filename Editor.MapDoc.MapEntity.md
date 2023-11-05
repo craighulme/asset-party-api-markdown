@@ -1,6 +1,7 @@
 # MapEntity
 
-## ```c#
+## 
+```c#
 Derives from MapNode
 ```
 

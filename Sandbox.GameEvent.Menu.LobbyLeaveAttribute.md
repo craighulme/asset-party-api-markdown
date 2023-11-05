@@ -1,6 +1,7 @@
 # LobbyLeaveAttribute
 
-## ```c#
+## 
+```c#
 Derives from EventAttribute
 ```
 

@@ -1,6 +1,7 @@
 # Checkbox
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

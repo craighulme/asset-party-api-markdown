@@ -1,6 +1,7 @@
 # AssetSystem
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

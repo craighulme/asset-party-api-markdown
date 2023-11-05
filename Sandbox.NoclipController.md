@@ -1,6 +1,7 @@
 # NoclipController
 
-## ```c#
+## 
+```c#
 Derives from BasePlayerController
 ```
 

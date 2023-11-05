@@ -1,6 +1,8 @@
 # Sandbox.Localization Namespace
 
-## ```c#
+## 
+```c#
+
 ```c#
 Derives from NetAttribute
 ```

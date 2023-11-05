@@ -1,6 +1,7 @@
 # NavNodeType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

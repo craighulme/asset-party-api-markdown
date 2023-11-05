@@ -1,6 +1,7 @@
 # HingeConstraint
 
-## ```c#
+## 
+```c#
 Derives from BaseConstraint
 ```
 

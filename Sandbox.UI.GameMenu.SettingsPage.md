@@ -1,6 +1,7 @@
 # SettingsPage
 
-## ```c#
+## 
+```c#
 Derives from Panel
 ```
 

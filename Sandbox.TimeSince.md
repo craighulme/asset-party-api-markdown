@@ -1,6 +1,7 @@
 # TimeSince
 
-## ```c#
+## 
+```c#
 Implements IEquatable<TimeSince>
 ```
 

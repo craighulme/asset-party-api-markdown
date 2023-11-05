@@ -1,6 +1,7 @@
 # NotificationLevel
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

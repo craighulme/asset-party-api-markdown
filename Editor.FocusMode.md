@@ -1,6 +1,7 @@
 # FocusMode
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

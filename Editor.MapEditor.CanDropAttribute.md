@@ -1,6 +1,7 @@
 # CanDropAttribute
 
-## ```c#
+## 
+```c#
 Implements ITypeAttribute
 ```
 

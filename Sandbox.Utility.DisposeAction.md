@@ -1,6 +1,7 @@
 # DisposeAction
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

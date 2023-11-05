@@ -1,6 +1,7 @@
 # InputSettings
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

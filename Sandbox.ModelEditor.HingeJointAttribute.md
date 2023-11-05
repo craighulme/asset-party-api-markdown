@@ -1,6 +1,7 @@
 # HingeJointAttribute
 
-## ```c#
+## 
+```c#
 Derives from BaseTransformAttribute
 ```
 

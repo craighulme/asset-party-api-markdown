@@ -1,6 +1,7 @@
 # PackageSelectorProperty
 
-## ```c#
+## 
+```c#
 Derives from LineEdit
 ```
 

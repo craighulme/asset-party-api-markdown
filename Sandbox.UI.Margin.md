@@ -1,6 +1,7 @@
 # Margin
 
-## ```c#
+## 
+```c#
 Derives from ValueType
 ```
 

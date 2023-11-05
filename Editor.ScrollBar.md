@@ -1,6 +1,7 @@
 # ScrollBar
 
-## ```c#
+## 
+```c#
 Derives from Widget
 ```
 

@@ -1,6 +1,7 @@
 # EntityEntry
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

@@ -1,6 +1,7 @@
 # VideoPlayer
 
-## ```c#
+## 
+```c#
 Implements IDisposable, IWeakInteropHandle
 ```
 

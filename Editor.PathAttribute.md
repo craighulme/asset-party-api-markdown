@@ -1,6 +1,7 @@
 # PathAttribute
 
-## ```c#
+## 
+```c#
 Derives from MetaDataAttribute
 ```
 

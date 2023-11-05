@@ -1,6 +1,7 @@
 # NavTraverseType
 
-## ```c#
+## 
+```c#
 Derives from Enum
 ```
 

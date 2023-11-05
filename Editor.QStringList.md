@@ -1,6 +1,7 @@
 # QStringList
 
-## ```c#
+## 
+```c#
 Implements IDisposable
 ```
 

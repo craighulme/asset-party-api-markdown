@@ -1,6 +1,7 @@
 # SandboxBaseExtensions
 
-## ```c#
+## 
+```c#
 Derives from object
 ```
 

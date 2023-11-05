@@ -1,7 +1,8 @@
 # EditorAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IUninheritable
+```
 
 ## Summary
 

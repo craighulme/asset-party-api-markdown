@@ -1,6 +1,8 @@
 # DictionaryProperty<TKey,TValue>
 
-## Derives from PropertyEditorWidget
+## ```c#
+Derives from PropertyEditorWidget
+```
 
 ## Summary
 

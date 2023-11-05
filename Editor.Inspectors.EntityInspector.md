@@ -1,6 +1,8 @@
 # EntityInspector
 
-## Derives from ScrollArea
+## ```c#
+Derives from ScrollArea
+```
 
 ## Summary
 

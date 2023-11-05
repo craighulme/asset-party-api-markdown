@@ -1,6 +1,8 @@
 # AutoComplete
 
-## Derives from Menu
+## ```c#
+Derives from Menu
+```
 
 ## Summary
 

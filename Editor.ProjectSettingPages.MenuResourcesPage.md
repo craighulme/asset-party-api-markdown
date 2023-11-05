@@ -1,6 +1,8 @@
 # MenuResourcesPage
 
-## Derives from BasePage
+## ```c#
+Derives from BasePage
+```
 
 ## Summary
 

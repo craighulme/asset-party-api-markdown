@@ -1,7 +1,8 @@
 # CategoryAttribute
 
-## Derives from Attribute
+## ```c#
 Implements ICategoryProvider, IUninheritable
+```
 
 ## Summary
 

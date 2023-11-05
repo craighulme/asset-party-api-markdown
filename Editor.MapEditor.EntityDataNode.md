@@ -1,6 +1,8 @@
 # EntityDataNode
 
-## Derives from TreeNode<MapClass>
+## ```c#
+Derives from TreeNode<MapClass>
+```
 
 ## Summary
 

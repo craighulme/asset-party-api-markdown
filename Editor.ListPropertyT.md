@@ -1,6 +1,8 @@
 # ListProperty<T>
 
-## Derives from PropertyEditorWidget
+## ```c#
+Derives from PropertyEditorWidget
+```
 
 ## Summary
 

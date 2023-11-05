@@ -1,7 +1,8 @@
 # TextureCompileSettings
 
-## Derives from PropertySheet
+## ```c#
 Implements IAssetInspector
+```
 
 ## Summary
 

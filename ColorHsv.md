@@ -1,7 +1,8 @@
 # ColorHsv
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<ColorHsv>
+```
 
 ## Summary
 

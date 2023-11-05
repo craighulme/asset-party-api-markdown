@@ -1,7 +1,8 @@
 # Rotation
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Rotation>, IParsable<Rotation>
+```
 
 ## Summary
 

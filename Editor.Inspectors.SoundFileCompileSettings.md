@@ -1,7 +1,8 @@
 # SoundFileCompileSettings
 
-## Derives from PropertySheet
+## ```c#
 Implements IAssetInspector
+```
 
 ## Summary
 

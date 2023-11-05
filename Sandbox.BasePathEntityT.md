@@ -1,6 +1,8 @@
 # BasePathEntity<T>
 
-## Derives from Entity
+## ```c#
+Derives from Entity
+```
 
 ## Summary
 

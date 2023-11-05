@@ -1,7 +1,8 @@
 # MenuAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IMemberAttribute
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ActiveGameRow
 
-## Derives from ProjectRow
+## ```c#
+Derives from ProjectRow
+```
 
 ## Summary
 

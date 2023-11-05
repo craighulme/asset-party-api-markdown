@@ -1,6 +1,8 @@
 # Widget
 
-## Derives from QObject
+## ```c#
+Derives from QObject
+```
 
 ## Summary
 

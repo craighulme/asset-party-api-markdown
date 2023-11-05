@@ -1,6 +1,8 @@
 # InformationBox
 
-## Derives from WarningBox
+## ```c#
+Derives from WarningBox
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # HeadBarEvent
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<HeadBarEvent>
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # Input
 
-## Derives from InputOutputBase
+## ```c#
+Derives from InputOutputBase
+```
 
 ## Summary
 

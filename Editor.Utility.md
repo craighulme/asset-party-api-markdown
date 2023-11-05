@@ -1,7 +1,8 @@
 # Utility
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

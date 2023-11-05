@@ -1,7 +1,8 @@
 # ClassNameAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IClassNameProvider, IUninheritable
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Matrix
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Matrix>
+```
 
 ## Summary
 

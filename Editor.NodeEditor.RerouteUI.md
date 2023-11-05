@@ -1,6 +1,8 @@
 # RerouteUI
 
-## Derives from NodeUI
+## ```c#
+Derives from NodeUI
+```
 
 ## Summary
 

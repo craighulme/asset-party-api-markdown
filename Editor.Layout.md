@@ -1,7 +1,8 @@
 # Layout
 
-## Is abstract
+## ```c#
 Derives from QObject
+```
 
 ## Summary
 

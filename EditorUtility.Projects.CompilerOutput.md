@@ -1,7 +1,8 @@
 # CompilerOutput
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<CompilerOutput>
+```
 
 ## Summary
 

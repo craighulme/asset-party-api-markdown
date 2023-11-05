@@ -1,7 +1,8 @@
 # GradientExtensions
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

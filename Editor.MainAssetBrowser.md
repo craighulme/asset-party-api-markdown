@@ -1,6 +1,8 @@
 # MainAssetBrowser
 
-## Derives from AssetBrowser
+## ```c#
+Derives from AssetBrowser
+```
 
 ## Summary
 

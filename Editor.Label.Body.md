@@ -1,6 +1,8 @@
 # Body
 
-## Derives from Label
+## ```c#
+Derives from Label
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ColorEditor
 
-## Derives from ValueEditor
+## ```c#
+Derives from ValueEditor
+```
 
 ## Summary
 

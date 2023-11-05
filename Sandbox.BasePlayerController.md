@@ -1,7 +1,8 @@
 # BasePlayerController
 
-## Is abstract
+## ```c#
 Derives from PawnController
+```
 
 ## Summary
 

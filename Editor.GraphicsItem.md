@@ -1,8 +1,8 @@
 # GraphicsItem
 
-## Is abstract
-Derives from object
+## ```c#
 Implements IValid
+```
 
 ## Summary
 

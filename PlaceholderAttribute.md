@@ -1,7 +1,8 @@
 # PlaceholderAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IPlaceholderProvider, IUninheritable
+```
 
 ## Summary
 

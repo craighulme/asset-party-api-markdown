@@ -1,7 +1,8 @@
 # SelectionDialog<T>
 
-## Is abstract
+## ```c#
 Derives from PopupWidget
+```
 
 ## Summary
 

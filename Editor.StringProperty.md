@@ -1,6 +1,8 @@
 # StringProperty
 
-## Derives from LineEdit
+## ```c#
+Derives from LineEdit
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ProjectRow
 
-## Derives from ItemRow
+## ```c#
+Derives from ItemRow
+```
 
 ## Summary
 

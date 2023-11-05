@@ -1,6 +1,8 @@
 # IntegerControlWidget
 
-## Derives from FloatControlWidget
+## ```c#
+Derives from FloatControlWidget
+```
 
 ## Summary
 

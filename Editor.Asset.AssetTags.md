@@ -1,7 +1,8 @@
 # AssetTags
 
-## Derives from ValueType
+## ```c#
 Implements IEnumerable<string>
+```
 
 ## Summary
 

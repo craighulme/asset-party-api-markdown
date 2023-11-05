@@ -1,7 +1,8 @@
 # ModelInspector
 
-## Derives from Widget
+## ```c#
 Implements IAssetInspector
+```
 
 ## Summary
 

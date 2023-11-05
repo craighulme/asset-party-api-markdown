@@ -1,7 +1,8 @@
 # MenuSystem
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

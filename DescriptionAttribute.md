@@ -1,7 +1,8 @@
 # DescriptionAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IDescriptionProvider, IUninheritable
+```
 
 ## Summary
 

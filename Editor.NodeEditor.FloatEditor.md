@@ -1,6 +1,8 @@
 # FloatEditor
 
-## Derives from ValueEditor
+## ```c#
+Derives from ValueEditor
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # BitFlagsAttribute
 
-## Derives from FGDTypeAttribute
+## ```c#
+Derives from FGDTypeAttribute
+```
 
 ## Summary
 

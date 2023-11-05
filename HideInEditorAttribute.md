@@ -1,7 +1,8 @@
 # HideInEditorAttribute
 
-## Derives from TagAttribute
+## ```c#
 Implements IUninheritable
+```
 
 ## Summary
 

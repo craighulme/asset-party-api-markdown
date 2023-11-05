@@ -1,7 +1,8 @@
 # BasePathNodeEntity
 
-## Derives from Entity
+## ```c#
 Implements IBasePathNode
+```
 
 ## Summary
 

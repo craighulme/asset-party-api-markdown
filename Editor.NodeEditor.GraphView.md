@@ -1,6 +1,8 @@
 # GraphView
 
-## Derives from GraphicsView
+## ```c#
+Derives from GraphicsView
+```
 
 ## Summary
 

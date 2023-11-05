@@ -1,7 +1,8 @@
 # DefaultLoadingPanel
 
-## Derives from RootPanel
+## ```c#
 Implements ILoadingScreenPanel
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # MapPathNode
 
-## Derives from MapNode
+## ```c#
+Derives from MapNode
+```
 
 ## Summary
 

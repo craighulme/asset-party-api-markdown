@@ -1,7 +1,8 @@
 # Color32
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Color32>
+```
 
 ## Summary
 

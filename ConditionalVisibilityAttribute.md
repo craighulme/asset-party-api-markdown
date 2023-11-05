@@ -1,7 +1,8 @@
 # ConditionalVisibilityAttribute
 
-## Is abstract
+## ```c#
 Derives from Attribute
+```
 
 ## Summary
 

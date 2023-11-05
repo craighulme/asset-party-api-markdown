@@ -1,6 +1,8 @@
 # IntSliderProperty
 
-## Derives from FloatSliderProperty
+## ```c#
+Derives from FloatSliderProperty
+```
 
 ## Summary
 

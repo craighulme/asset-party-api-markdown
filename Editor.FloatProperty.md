@@ -1,6 +1,8 @@
 # FloatProperty
 
-## Derives from FloatingPointProperty<float>
+## ```c#
+Derives from FloatingPointProperty<float>
+```
 
 ## Summary
 

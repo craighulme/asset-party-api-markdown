@@ -1,7 +1,8 @@
 # AssetPreview
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

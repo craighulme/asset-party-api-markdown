@@ -1,7 +1,8 @@
 # Plane
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Plane>
+```
 
 ## Summary
 

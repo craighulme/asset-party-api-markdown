@@ -1,7 +1,8 @@
 # Frustum
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Frustum>
+```
 
 ## Summary
 

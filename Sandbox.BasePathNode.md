@@ -1,7 +1,8 @@
 # BasePathNode
 
-## Derives from object
+## ```c#
 Implements IBasePathNode
+```
 
 ## Summary
 

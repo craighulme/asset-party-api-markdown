@@ -1,6 +1,8 @@
 # EntityNode
 
-## Derives from TreeNode<EntityEntry>
+## ```c#
+Derives from TreeNode<EntityEntry>
+```
 
 ## Summary
 

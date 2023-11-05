@@ -1,6 +1,8 @@
 # BaseItemWidget
 
-## Derives from BaseScrollWidget
+## ```c#
+Derives from BaseScrollWidget
+```
 
 ## Summary
 

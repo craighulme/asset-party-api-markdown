@@ -1,7 +1,8 @@
 # TreeNode<T>
 
-## Is abstract
+## ```c#
 Derives from TreeNode
+```
 
 ## Summary
 

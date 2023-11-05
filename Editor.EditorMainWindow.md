@@ -1,6 +1,8 @@
 # EditorMainWindow
 
-## Derives from DockWindow
+## ```c#
+Derives from DockWindow
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # BaseInventory
 
-## Derives from object
+## ```c#
 Implements IBaseInventory
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # CurveEditorPopup
 
-## Derives from PopupWidget
+## ```c#
+Derives from PopupWidget
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Capsule
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Capsule>
+```
 
 ## Summary
 

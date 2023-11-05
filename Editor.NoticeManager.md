@@ -1,7 +1,8 @@
 # NoticeManager
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

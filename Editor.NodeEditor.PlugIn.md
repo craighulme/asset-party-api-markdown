@@ -1,6 +1,8 @@
 # PlugIn
 
-## Derives from Plug
+## ```c#
+Derives from Plug
+```
 
 ## Summary
 

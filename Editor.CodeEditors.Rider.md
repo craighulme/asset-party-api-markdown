@@ -1,7 +1,8 @@
 # Rider
 
-## Derives from object
+## ```c#
 Implements ICodeEditor
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # ControlWidget
 
-## Is abstract
+## ```c#
 Derives from Widget
+```
 
 ## Summary
 

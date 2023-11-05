@@ -1,7 +1,8 @@
 # RerouteNode
 
-## Is abstract
+## ```c#
 Derives from BaseNode
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # BaseResourceEditor<T>
 
-## Is abstract
+## ```c#
 Derives from Widget
+```
 
 ## Summary
 

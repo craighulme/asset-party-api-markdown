@@ -1,7 +1,8 @@
 # Angles
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Angles>, IParsable<Angles>
+```
 
 ## Summary
 

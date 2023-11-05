@@ -1,7 +1,8 @@
 # RangedFloatSliderProperty
 
-## Derives from Widget
+## ```c#
 Implements IEditorAttribute<MinMaxAttribute>, IEditorAttribute<RangeAttribute>
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Line
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Line>
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ListView
 
-## Derives from BaseItemWidget
+## ```c#
+Derives from BaseItemWidget
+```
 
 ## Summary
 

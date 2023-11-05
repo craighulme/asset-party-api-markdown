@@ -1,7 +1,8 @@
 # IEditorAttribute<T>
 
-## Is interface
+## ```c#
 Inherits IEditorAttributeBase
+```
 
 ## Summary
 

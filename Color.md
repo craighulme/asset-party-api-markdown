@@ -1,7 +1,8 @@
 # Color
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Color>
+```
 
 ## Summary
 

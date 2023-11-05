@@ -1,6 +1,8 @@
 # PanelTreeNode
 
-## Derives from TreeNode<IPanel>
+## ```c#
+Derives from TreeNode<IPanel>
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # FloatSliderProperty
 
-## Derives from PropertyEditorWidget
+## ```c#
 Implements IEditorAttribute<MinMaxAttribute>, IEditorAttribute<RangeAttribute>
+```
 
 ## Summary
 

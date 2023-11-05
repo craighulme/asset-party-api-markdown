@@ -1,6 +1,8 @@
 # SoundEventAssetExtra
 
-## Derives from Widget
+## ```c#
+Derives from Widget
+```
 
 ## Summary
 

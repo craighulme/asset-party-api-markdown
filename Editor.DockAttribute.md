@@ -1,7 +1,8 @@
 # DockAttribute
 
-## Derives from Attribute
+## ```c#
 Implements ITypeAttribute
+```
 
 ## Summary
 

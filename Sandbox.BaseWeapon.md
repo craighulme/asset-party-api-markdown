@@ -1,6 +1,8 @@
 # BaseWeapon
 
-## Derives from BaseCarriable
+## ```c#
+Derives from BaseCarriable
+```
 
 ## Summary
 

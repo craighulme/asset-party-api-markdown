@@ -1,6 +1,8 @@
 # Section
 
-## Derives from TreeNode
+## ```c#
+Derives from TreeNode
+```
 
 ## Summary
 

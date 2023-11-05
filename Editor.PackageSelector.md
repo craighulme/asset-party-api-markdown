@@ -1,6 +1,8 @@
 # PackageSelector
 
-## Derives from Dialog
+## ```c#
+Derives from Dialog
+```
 
 ## Summary
 

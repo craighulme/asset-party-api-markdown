@@ -1,8 +1,8 @@
 # BaseNetworkable
 
-## Is abstract
-Derives from object
+## ```c#
 Implements INetworkTable
+```
 
 ## Summary
 

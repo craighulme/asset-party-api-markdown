@@ -1,7 +1,8 @@
 # GameResourceEditor
 
-## Derives from BaseWindow
+## ```c#
 Implements IAssetEditor
+```
 
 ## Summary
 

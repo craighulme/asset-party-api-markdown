@@ -1,6 +1,8 @@
 # FloatControlWidget
 
-## Derives from StringControlWidget
+## ```c#
+Derives from StringControlWidget
+```
 
 ## Summary
 

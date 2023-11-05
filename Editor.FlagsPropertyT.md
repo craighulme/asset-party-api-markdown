@@ -1,7 +1,8 @@
 # FlagsProperty<T>
 
-## Derives from PropertyEditorWidget
+## ```c#
 Implements IEditorAttribute<FlagsAttribute>, IEditorAttribute<BitFlagsAttribute>
+```
 
 ## Summary
 

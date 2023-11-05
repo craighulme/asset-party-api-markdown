@@ -1,6 +1,8 @@
 # Clear
 
-## Derives from Button
+## ```c#
+Derives from Button
+```
 
 ## Summary
 

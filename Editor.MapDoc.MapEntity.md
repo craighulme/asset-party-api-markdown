@@ -1,6 +1,8 @@
 # MapEntity
 
-## Derives from MapNode
+## ```c#
+Derives from MapNode
+```
 
 ## Summary
 

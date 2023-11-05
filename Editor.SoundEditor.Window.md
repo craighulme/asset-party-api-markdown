@@ -1,7 +1,8 @@
 # Window
 
-## Derives from DockWindow
+## ```c#
 Implements IAssetEditor
+```
 
 ## Summary
 

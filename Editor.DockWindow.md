@@ -1,6 +1,8 @@
 # DockWindow
 
-## Derives from Window
+## ```c#
+Derives from Window
+```
 
 ## Summary
 

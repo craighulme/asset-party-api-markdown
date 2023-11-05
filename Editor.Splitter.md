@@ -1,6 +1,8 @@
 # Splitter
 
-## Derives from Frame
+## ```c#
+Derives from Frame
+```
 
 ## Summary
 

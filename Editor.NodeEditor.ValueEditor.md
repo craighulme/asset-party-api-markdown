@@ -1,7 +1,8 @@
 # ValueEditor
 
-## Is abstract
+## ```c#
 Derives from GraphicsItem
+```
 
 ## Summary
 

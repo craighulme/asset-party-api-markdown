@@ -1,7 +1,8 @@
 # BBox
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<BBox>
+```
 
 ## Summary
 

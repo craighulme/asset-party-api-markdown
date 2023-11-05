@@ -1,7 +1,8 @@
 # Rect
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Rect>
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Ray
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Ray>
+```
 
 ## Summary
 

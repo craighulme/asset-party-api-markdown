@@ -1,7 +1,8 @@
 # NodeInput
 
-## Derives from ValueType
+## ```c#
 Implements IValid
+```
 
 ## Summary
 

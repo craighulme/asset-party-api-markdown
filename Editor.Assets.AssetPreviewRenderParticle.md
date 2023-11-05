@@ -1,6 +1,8 @@
 # AssetPreviewRenderParticle
 
-## Derives from AssetVideo
+## ```c#
+Derives from AssetVideo
+```
 
 ## Summary
 

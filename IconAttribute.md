@@ -1,7 +1,8 @@
 # IconAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IIconProvider, IUninheritable
+```
 
 ## Summary
 

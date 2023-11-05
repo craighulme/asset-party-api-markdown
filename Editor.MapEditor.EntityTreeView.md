@@ -1,6 +1,8 @@
 # EntityTreeView
 
-## Derives from TreeView
+## ```c#
+Derives from TreeView
+```
 
 ## Summary
 

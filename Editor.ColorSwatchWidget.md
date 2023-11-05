@@ -1,6 +1,8 @@
 # ColorSwatchWidget
 
-## Derives from ControlWidget
+## ```c#
+Derives from ControlWidget
+```
 
 ## Summary
 

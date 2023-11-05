@@ -1,6 +1,8 @@
 # ArrayProperty<T>
 
-## Derives from ListProperty<T>
+## ```c#
+Derives from ListProperty<T>
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # SupportsSolidAttribute
 
-## Derives from MetaDataAttribute
+## ```c#
+Derives from MetaDataAttribute
+```
 
 ## Summary
 

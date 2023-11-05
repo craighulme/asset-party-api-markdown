@@ -1,7 +1,8 @@
 # Connection
 
-## Derives from object
+## ```c#
 Implements IEquatable<Connection>
+```
 
 ## Summary
 

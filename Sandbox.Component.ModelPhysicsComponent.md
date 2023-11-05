@@ -1,6 +1,8 @@
 # ModelPhysicsComponent
 
-## Derives from BasePhysicsComponent
+## ```c#
+Derives from BasePhysicsComponent
+```
 
 ## Summary
 

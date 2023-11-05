@@ -1,7 +1,8 @@
 # Texture
 
-## Derives from Resource
+## ```c#
 Implements IDisposable
+```
 
 ## Summary
 

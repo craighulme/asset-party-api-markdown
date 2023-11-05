@@ -1,7 +1,8 @@
 # SoundscapeRadiusEntity
 
-## Derives from Entity
+## ```c#
 Implements ISoundscapeEntity
+```
 
 ## Summary
 

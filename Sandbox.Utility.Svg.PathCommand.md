@@ -1,8 +1,8 @@
 # PathCommand
 
-## Is abstract
-Derives from object
+## ```c#
 Implements IEquatable<PathCommand>
+```
 
 ## Summary
 

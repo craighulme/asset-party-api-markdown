@@ -1,7 +1,8 @@
 # VarEmbedDictionary<TKey,TVal>
 
-## Is abstract
+## ```c#
 Derives from VarContainer
+```
 
 ## Summary
 

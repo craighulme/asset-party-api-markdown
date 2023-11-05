@@ -1,7 +1,8 @@
 # GameLobby
 
-## Derives from object
+## ```c#
 Implements ILobby
+```
 
 ## Summary
 

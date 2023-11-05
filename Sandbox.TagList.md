@@ -1,6 +1,8 @@
 # TagList
 
-## Derives from HashSet<string>
+## ```c#
+Derives from HashSet<string>
+```
 
 ## Summary
 

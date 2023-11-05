@@ -1,6 +1,8 @@
 # BallSocketJoint
 
-## Derives from PhysicsJoint
+## ```c#
+Derives from PhysicsJoint
+```
 
 ## Summary
 

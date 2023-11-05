@@ -1,6 +1,8 @@
 # WaterFunc
 
-## Derives from Water
+## ```c#
+Derives from Water
+```
 
 ## Summary
 

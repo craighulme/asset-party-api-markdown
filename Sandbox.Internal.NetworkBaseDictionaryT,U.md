@@ -1,7 +1,8 @@
 # NetworkBaseDictionary<T,U>
 
-## Is abstract
+## ```c#
 Derives from Var
+```
 
 ## Summary
 

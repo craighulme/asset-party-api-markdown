@@ -1,6 +1,8 @@
 # PulleyJoint
 
-## Derives from PhysicsJoint
+## ```c#
+Derives from PhysicsJoint
+```
 
 ## Summary
 

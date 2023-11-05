@@ -1,6 +1,8 @@
 # AnalogInput2D
 
-## Derives from ValueType
+## ```c#
+Derives from ValueType
+```
 
 ## Summary
 

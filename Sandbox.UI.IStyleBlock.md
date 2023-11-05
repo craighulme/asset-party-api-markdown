@@ -1,6 +1,8 @@
 # IStyleBlock
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

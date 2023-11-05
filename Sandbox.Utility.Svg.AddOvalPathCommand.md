@@ -1,7 +1,8 @@
 # AddOvalPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<AddOvalPathCommand>
+```
 
 ## Summary
 

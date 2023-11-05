@@ -1,6 +1,8 @@
 # PhysicsBrushEntity
 
-## Derives from BasePhysics
+## ```c#
+Derives from BasePhysics
+```
 
 ## Summary
 

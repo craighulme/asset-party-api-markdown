@@ -1,6 +1,8 @@
 # LobbyJoinedAttribute
 
-## Derives from EventAttribute
+## ```c#
+Derives from EventAttribute
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # ArcToPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<ArcToPathCommand>
+```
 
 ## Summary
 

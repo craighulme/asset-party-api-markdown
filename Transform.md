@@ -1,7 +1,8 @@
 # Transform
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Transform>
+```
 
 ## Summary
 

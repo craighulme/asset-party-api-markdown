@@ -1,7 +1,8 @@
 # StyleBlock
 
-## Derives from object
+## ```c#
 Implements IStyleBlock
+```
 
 ## Summary
 

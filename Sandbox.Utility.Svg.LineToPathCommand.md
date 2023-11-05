@@ -1,7 +1,8 @@
 # LineToPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<LineToPathCommand>
+```
 
 ## Summary
 

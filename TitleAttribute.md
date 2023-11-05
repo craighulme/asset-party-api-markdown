@@ -1,7 +1,8 @@
 # TitleAttribute
 
-## Derives from Attribute
+## ```c#
 Implements ITitleProvider, IUninheritable
+```
 
 ## Summary
 

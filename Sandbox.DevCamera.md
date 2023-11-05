@@ -1,6 +1,8 @@
 # DevCamera
 
-## Derives from EntityComponent
+## ```c#
+Derives from EntityComponent
+```
 
 ## Summary
 

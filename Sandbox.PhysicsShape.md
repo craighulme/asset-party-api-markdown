@@ -1,7 +1,8 @@
 # PhysicsShape
 
-## Derives from object
+## ```c#
 Implements IHandle
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # SceneCubemap
 
-## Derives from SceneLight
+## ```c#
+Derives from SceneLight
+```
 
 ## Summary
 

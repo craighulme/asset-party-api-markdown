@@ -1,7 +1,8 @@
 # Server
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

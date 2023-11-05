@@ -1,7 +1,8 @@
 # LibraryAttribute
 
-## Derives from Attribute
+## ```c#
 Implements ITitleProvider, IDescriptionProvider, IClassNameProvider, IUninheritable
+```
 
 ## Summary
 

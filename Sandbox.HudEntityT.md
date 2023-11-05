@@ -1,7 +1,8 @@
 # HudEntity<T>
 
-## Is abstract
+## ```c#
 Derives from Entity
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Length
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Length>
+```
 
 ## Summary
 

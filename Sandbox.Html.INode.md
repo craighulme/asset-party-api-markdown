@@ -1,6 +1,8 @@
 # INode
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

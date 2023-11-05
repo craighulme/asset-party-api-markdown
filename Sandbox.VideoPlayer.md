@@ -1,7 +1,8 @@
 # VideoPlayer
 
-## Derives from object
+## ```c#
 Implements IDisposable, IWeakInteropHandle
+```
 
 ## Summary
 

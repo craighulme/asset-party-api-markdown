@@ -1,7 +1,8 @@
 # SceneCullingBox
 
-## Derives from object
+## ```c#
 Implements IValid
+```
 
 ## Summary
 

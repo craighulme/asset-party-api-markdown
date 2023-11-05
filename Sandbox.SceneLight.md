@@ -1,6 +1,8 @@
 # SceneLight
 
-## Derives from SceneObject
+## ```c#
+Derives from SceneObject
+```
 
 ## Summary
 

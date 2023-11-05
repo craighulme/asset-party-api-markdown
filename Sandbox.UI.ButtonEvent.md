@@ -1,7 +1,8 @@
 # ButtonEvent
 
-## Derives from object
+## ```c#
 Implements IEquatable<ButtonEvent>
+```
 
 ## Summary
 

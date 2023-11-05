@@ -1,6 +1,8 @@
 # VarUnmanaged<T>
 
-## Derives from Var
+## ```c#
+Derives from Var
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # CapsuleLightEntity
 
-## Derives from PointLightEntity
+## ```c#
+Derives from PointLightEntity
+```
 
 ## Summary
 

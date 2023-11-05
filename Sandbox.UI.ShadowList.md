@@ -1,6 +1,8 @@
 # ShadowList
 
-## Derives from List<Shadow>
+## ```c#
+Derives from List<Shadow>
+```
 
 ## Summary
 

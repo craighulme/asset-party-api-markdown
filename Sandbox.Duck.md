@@ -1,6 +1,8 @@
 # Duck
 
-## Derives from BaseNetworkable
+## ```c#
+Derives from BaseNetworkable
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # GameResource
 
-## Is abstract
+## ```c#
 Derives from Resource
+```
 
 ## Summary
 

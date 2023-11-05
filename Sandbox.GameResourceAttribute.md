@@ -1,7 +1,8 @@
 # GameResourceAttribute
 
-## Derives from Attribute
+## ```c#
 Implements ITypeAttribute, IUninheritable
+```
 
 ## Summary
 

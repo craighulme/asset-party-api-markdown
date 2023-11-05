@@ -1,7 +1,8 @@
 # Superluminal
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

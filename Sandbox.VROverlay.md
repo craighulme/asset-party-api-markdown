@@ -1,7 +1,8 @@
 # VROverlay
 
-## Derives from object
+## ```c#
 Implements IDisposable
+```
 
 ## Summary
 

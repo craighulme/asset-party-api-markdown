@@ -1,6 +1,8 @@
 # IMenuSystem
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

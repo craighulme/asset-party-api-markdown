@@ -1,6 +1,8 @@
 # StartAsState
 
-## Derives from Enum
+## ```c#
+Derives from Enum
+```
 
 ## Summary
 

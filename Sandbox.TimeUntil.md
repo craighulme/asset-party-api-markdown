@@ -1,7 +1,8 @@
 # TimeUntil
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<TimeUntil>
+```
 
 ## Summary
 

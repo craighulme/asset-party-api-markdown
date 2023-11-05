@@ -1,7 +1,8 @@
 # IEntity
 
-## Is interface
+## ```c#
 Inherits IValid
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ICSharpCompiler
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

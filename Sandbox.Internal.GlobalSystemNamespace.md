@@ -1,7 +1,8 @@
 # GlobalSystemNamespace
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # AliasAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IUninheritable
+```
 
 ## Summary
 

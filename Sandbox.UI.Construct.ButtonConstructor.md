@@ -1,7 +1,8 @@
 # ButtonConstructor
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

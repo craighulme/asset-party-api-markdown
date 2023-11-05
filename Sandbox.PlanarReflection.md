@@ -1,6 +1,8 @@
 # PlanarReflection
 
-## Derives from ScenePortal
+## ```c#
+Derives from ScenePortal
+```
 
 ## Summary
 

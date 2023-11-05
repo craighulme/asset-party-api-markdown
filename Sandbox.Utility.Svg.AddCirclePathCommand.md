@@ -1,7 +1,8 @@
 # AddCirclePathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<AddCirclePathCommand>
+```
 
 ## Summary
 

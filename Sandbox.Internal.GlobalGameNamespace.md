@@ -1,7 +1,8 @@
 # GlobalGameNamespace
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

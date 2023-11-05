@@ -1,6 +1,8 @@
 # ScenePanelObject
 
-## Derives from SceneCustomObject
+## ```c#
+Derives from SceneCustomObject
+```
 
 ## Summary
 

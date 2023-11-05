@@ -1,7 +1,8 @@
 # SoundFile
 
-## Derives from Resource
+## ```c#
 Implements IValid
+```
 
 ## Summary
 

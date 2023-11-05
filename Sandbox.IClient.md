@@ -1,7 +1,8 @@
 # IClient
 
-## Is interface
+## ```c#
 Inherits IEntity
+```
 
 ## Summary
 

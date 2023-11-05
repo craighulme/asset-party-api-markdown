@@ -1,7 +1,8 @@
 # AddRectPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<AddRectPathCommand>
+```
 
 ## Summary
 

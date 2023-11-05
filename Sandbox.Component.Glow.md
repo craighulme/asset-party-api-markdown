@@ -1,6 +1,8 @@
 # Glow
 
-## Derives from EntityComponent<ModelEntity>
+## ```c#
+Derives from EntityComponent<ModelEntity>
+```
 
 ## Summary
 

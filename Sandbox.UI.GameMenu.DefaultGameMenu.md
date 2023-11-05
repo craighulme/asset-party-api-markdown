@@ -1,7 +1,8 @@
 # DefaultGameMenu
 
-## Derives from NavHostPanel
+## ```c#
 Implements IGameMenuPanel
+```
 
 ## Summary
 

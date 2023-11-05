@@ -1,7 +1,8 @@
 # WaterEffectComponent
 
-## Derives from EntityComponent
+## ```c#
 Implements ISingletonComponent
+```
 
 ## Summary
 

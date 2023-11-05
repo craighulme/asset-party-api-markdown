@@ -1,7 +1,8 @@
 # SelectionSystem
 
-## Derives from object
+## ```c#
 Implements IEnumerable<object>
+```
 
 ## Summary
 

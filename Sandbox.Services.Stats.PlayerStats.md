@@ -1,7 +1,8 @@
 # PlayerStats
 
-## Derives from object
+## ```c#
 Implements IEnumerable<PlayerStat>
+```
 
 ## Summary
 

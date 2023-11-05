@@ -1,6 +1,8 @@
 # LocalAttribute
 
-## Derives from NetAttribute
+## ```c#
+Derives from NetAttribute
+```
 
 ## Summary
 

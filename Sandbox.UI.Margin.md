@@ -1,6 +1,8 @@
 # Margin
 
-## Derives from ValueType
+## ```c#
+Derives from ValueType
+```
 
 ## Summary
 

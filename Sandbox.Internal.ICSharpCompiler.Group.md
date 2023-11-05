@@ -1,7 +1,8 @@
 # Group
 
-## Derives from object
+## ```c#
 Implements IEquatable<Group>
+```
 
 ## Summary
 

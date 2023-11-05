@@ -1,7 +1,8 @@
 # EntityTarget
 
-## Derives from ValueType
+## ```c#
 Implements INetworkSerializer
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # VarObjectDictionaryC<TKey>
 
-## Derives from NetworkBaseDictionary<TKey, object>
+## ```c#
+Derives from NetworkBaseDictionary<TKey, object>
+```
 
 ## Summary
 

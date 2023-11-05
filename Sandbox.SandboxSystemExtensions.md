@@ -1,7 +1,8 @@
 # SandboxSystemExtensions
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

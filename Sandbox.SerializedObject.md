@@ -1,8 +1,8 @@
 # SerializedObject
 
-## Is abstract
-Derives from object
+## ```c#
 Implements IEnumerable<SerializedProperty>
+```
 
 ## Summary
 

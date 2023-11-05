@@ -1,7 +1,8 @@
 # GameManager
 
-## Is abstract
+## ```c#
 Derives from BaseGameManager
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # EntityObject
 
-## Is abstract
+## ```c#
 Derives from SerializedObject
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # IByteParsable<T>
 
-## Is interface
+## ```c#
 Inherits IByteParsable
+```
 
 ## Summary
 

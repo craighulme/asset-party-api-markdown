@@ -1,6 +1,8 @@
 # SpringConstraint
 
-## Derives from BaseConstraint
+## ```c#
+Derives from BaseConstraint
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # SourceLocationAttribute
 
-## Derives from ClassFileLocationAttribute
+## ```c#
+Derives from ClassFileLocationAttribute
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # SoundStream
 
-## Derives from object
+## ```c#
 Implements IHandle
+```
 
 ## Summary
 

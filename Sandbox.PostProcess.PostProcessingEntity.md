@@ -1,7 +1,8 @@
 # PostProcessingEntity
 
-## Derives from ModelEntity
+## ```c#
 Implements IPostProcessEntity
+```
 
 ## Summary
 

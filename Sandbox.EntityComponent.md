@@ -1,7 +1,8 @@
 # EntityComponent
 
-## Derives from BaseNetworkable
+## ```c#
 Implements IComponent
+```
 
 ## Summary
 

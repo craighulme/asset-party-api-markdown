@@ -1,6 +1,8 @@
 # Styles
 
-## Derives from BaseStyles
+## ```c#
+Derives from BaseStyles
+```
 
 ## Summary
 

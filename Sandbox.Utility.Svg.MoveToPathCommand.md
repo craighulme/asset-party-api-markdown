@@ -1,7 +1,8 @@
 # MoveToPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<MoveToPathCommand>
+```
 
 ## Summary
 

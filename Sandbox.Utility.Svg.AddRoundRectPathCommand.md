@@ -1,7 +1,8 @@
 # AddRoundRectPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<AddRoundRectPathCommand>
+```
 
 ## Summary
 

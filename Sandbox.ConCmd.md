@@ -1,7 +1,8 @@
 # ConCmd
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

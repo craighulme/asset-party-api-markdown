@@ -1,7 +1,8 @@
 # TagSet
 
-## Derives from object
+## ```c#
 Implements ITagSet
+```
 
 ## Summary
 

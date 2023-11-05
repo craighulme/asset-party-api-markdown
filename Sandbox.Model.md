@@ -1,6 +1,8 @@
 # Model
 
-## Derives from Resource
+## ```c#
+Derives from Resource
+```
 
 ## Summary
 

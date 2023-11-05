@@ -1,7 +1,8 @@
 # CircularBuffer<T>
 
-## Derives from object
+## ```c#
 Implements IEnumerable<T>
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # RealTimeUntil
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<RealTimeUntil>
+```
 
 ## Summary
 

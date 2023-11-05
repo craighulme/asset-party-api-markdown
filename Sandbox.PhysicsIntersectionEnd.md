@@ -1,7 +1,8 @@
 # PhysicsIntersectionEnd
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<PhysicsIntersectionEnd>
+```
 
 ## Summary
 

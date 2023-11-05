@@ -1,7 +1,8 @@
 # AddPolyPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<AddPolyPathCommand>
+```
 
 ## Summary
 

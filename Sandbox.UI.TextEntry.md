@@ -1,7 +1,8 @@
 # TextEntry
 
-## Derives from Panel
+## ```c#
 Implements IInputControl
+```
 
 ## Summary
 

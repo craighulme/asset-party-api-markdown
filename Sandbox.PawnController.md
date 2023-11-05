@@ -1,6 +1,8 @@
 # PawnController
 
-## Derives from BaseNetworkable
+## ```c#
+Derives from BaseNetworkable
+```
 
 ## Summary
 

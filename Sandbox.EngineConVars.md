@@ -1,7 +1,8 @@
 # EngineConVars
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

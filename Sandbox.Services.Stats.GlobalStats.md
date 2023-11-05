@@ -1,7 +1,8 @@
 # GlobalStats
 
-## Derives from object
+## ```c#
 Implements IEnumerable<GlobalStat>
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # SoundEventEntity
 
-## Derives from Entity
+## ```c#
+Derives from Entity
+```
 
 ## Summary
 

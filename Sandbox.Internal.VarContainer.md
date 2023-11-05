@@ -1,7 +1,8 @@
 # VarContainer
 
-## Is abstract
+## ```c#
 Derives from Var
+```
 
 ## Summary
 

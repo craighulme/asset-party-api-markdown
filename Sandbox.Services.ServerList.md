@@ -1,7 +1,8 @@
 # ServerList
 
-## Derives from List<Entry>
+## ```c#
 Implements IDisposable
+```
 
 ## Summary
 

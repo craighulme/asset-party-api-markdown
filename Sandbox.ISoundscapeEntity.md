@@ -1,6 +1,8 @@
 # ISoundscapeEntity
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

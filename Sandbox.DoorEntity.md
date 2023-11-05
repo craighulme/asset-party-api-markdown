@@ -1,7 +1,8 @@
 # DoorEntity
 
-## Derives from KeyframeEntity
+## ```c#
 Implements IUse
+```
 
 ## Summary
 

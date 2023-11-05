@@ -1,7 +1,8 @@
 # DisposeAction
 
-## Derives from ValueType
+## ```c#
 Implements IDisposable
+```
 
 ## Summary
 

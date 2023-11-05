@@ -1,7 +1,8 @@
 # SyncTask
 
-## Derives from ValueType
+## ```c#
 Implements INotifyCompletion
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Assert
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

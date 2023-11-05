@@ -1,6 +1,8 @@
 # PushVolumeEntity
 
-## Derives from BaseTrigger
+## ```c#
+Derives from BaseTrigger
+```
 
 ## Summary
 

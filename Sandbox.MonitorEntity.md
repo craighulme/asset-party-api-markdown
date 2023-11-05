@@ -1,6 +1,8 @@
 # MonitorEntity
 
-## Derives from BrushEntity
+## ```c#
+Derives from BrushEntity
+```
 
 ## Summary
 

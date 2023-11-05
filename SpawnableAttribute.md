@@ -1,7 +1,8 @@
 # SpawnableAttribute
 
-## Derives from TagAttribute
+## ```c#
 Implements IUninheritable
+```
 
 ## Summary
 

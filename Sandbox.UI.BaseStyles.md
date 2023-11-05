@@ -1,8 +1,8 @@
 # BaseStyles
 
-## Is abstract
-Derives from object
+## ```c#
 Implements ICloneable
+```
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # ILobby
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

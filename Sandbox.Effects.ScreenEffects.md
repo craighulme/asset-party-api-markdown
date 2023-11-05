@@ -1,6 +1,8 @@
 # ScreenEffects
 
-## Derives from RenderHook
+## ```c#
+Derives from RenderHook
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Vector3
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Vector3>, IParsable<Vector3>
+```
 
 ## Summary
 

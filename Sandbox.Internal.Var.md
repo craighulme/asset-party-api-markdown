@@ -1,7 +1,8 @@
 # Var
 
-## Is abstract
+## ```c#
 Derives from object
+```
 
 ## Summary
 

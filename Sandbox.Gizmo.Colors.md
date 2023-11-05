@@ -1,7 +1,8 @@
 # Colors
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

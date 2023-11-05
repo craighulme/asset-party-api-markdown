@@ -1,7 +1,8 @@
 # EnumDescription
 
-## Derives from object
+## ```c#
 Implements IEnumerable<Entry>
+```
 
 ## Summary
 

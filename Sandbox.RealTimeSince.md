@@ -1,7 +1,8 @@
 # RealTimeSince
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<RealTimeSince>
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Json
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

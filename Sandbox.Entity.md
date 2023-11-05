@@ -1,7 +1,8 @@
 # Entity
 
-## Derives from BaseNetworkable
+## ```c#
 Implements IEntity
+```
 
 ## Summary
 

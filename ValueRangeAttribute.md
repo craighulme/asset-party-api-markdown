@@ -1,6 +1,8 @@
 # ValueRangeAttribute
 
-## Derives from RangeAttribute
+## ```c#
+Derives from RangeAttribute
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Panel
 
-## Derives from object
+## ```c#
 Implements IPanel
+```
 
 ## Summary
 

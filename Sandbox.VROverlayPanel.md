@@ -1,6 +1,8 @@
 # VROverlayPanel
 
-## Derives from VROverlay
+## ```c#
+Derives from VROverlay
+```
 
 ## Summary
 

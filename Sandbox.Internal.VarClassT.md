@@ -1,6 +1,8 @@
 # VarClass<T>
 
-## Derives from VarContainer
+## ```c#
+Derives from VarContainer
+```
 
 ## Summary
 

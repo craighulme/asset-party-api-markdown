@@ -1,6 +1,8 @@
 # MovementPathEntity
 
-## Derives from GenericPathEntity
+## ```c#
+Derives from GenericPathEntity
+```
 
 ## Summary
 

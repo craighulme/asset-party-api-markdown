@@ -1,7 +1,8 @@
 # Crc32
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

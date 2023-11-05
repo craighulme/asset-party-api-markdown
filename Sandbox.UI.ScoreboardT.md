@@ -1,6 +1,8 @@
 # Scoreboard<T>
 
-## Derives from Panel
+## ```c#
+Derives from Panel
+```
 
 ## Summary
 

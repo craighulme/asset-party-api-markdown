@@ -1,7 +1,8 @@
 # SortOrder
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<SortOrder>
+```
 
 ## Summary
 

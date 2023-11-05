@@ -1,6 +1,8 @@
 # VolumetricFog
 
-## Derives from object
+## ```c#
+Derives from object
+```
 
 ## Summary
 

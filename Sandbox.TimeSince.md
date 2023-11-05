@@ -1,7 +1,8 @@
 # TimeSince
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<TimeSince>
+```
 
 ## Summary
 

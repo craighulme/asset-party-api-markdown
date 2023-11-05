@@ -1,7 +1,8 @@
 # Networking
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

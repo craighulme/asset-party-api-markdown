@@ -1,6 +1,8 @@
 # PropGib
 
-## Derives from Prop
+## ```c#
+Derives from Prop
+```
 
 ## Summary
 

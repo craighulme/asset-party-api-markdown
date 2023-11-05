@@ -1,6 +1,8 @@
 # VoiceList
 
-## Derives from Panel
+## ```c#
+Derives from Panel
+```
 
 ## Summary
 

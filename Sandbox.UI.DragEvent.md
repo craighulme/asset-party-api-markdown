@@ -1,6 +1,8 @@
 # DragEvent
 
-## Derives from PanelEvent
+## ```c#
+Derives from PanelEvent
+```
 
 ## Summary
 

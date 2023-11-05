@@ -1,7 +1,8 @@
 # VR
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

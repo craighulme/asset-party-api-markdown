@@ -1,6 +1,8 @@
 # Surface
 
-## Derives from GameResource
+## ```c#
+Derives from GameResource
+```
 
 ## Summary
 

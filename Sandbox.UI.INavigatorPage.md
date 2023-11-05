@@ -1,6 +1,8 @@
 # INavigatorPage
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

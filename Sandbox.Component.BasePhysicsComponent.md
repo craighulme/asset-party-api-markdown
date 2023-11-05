@@ -1,7 +1,8 @@
 # BasePhysicsComponent
 
-## Is abstract
+## ```c#
 Derives from EntityComponent
+```
 
 ## Summary
 

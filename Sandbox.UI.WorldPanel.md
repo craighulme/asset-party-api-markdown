@@ -1,6 +1,8 @@
 # WorldPanel
 
-## Derives from RootPanel
+## ```c#
+Derives from RootPanel
+```
 
 ## Summary
 

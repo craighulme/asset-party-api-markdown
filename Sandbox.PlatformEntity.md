@@ -1,6 +1,8 @@
 # PlatformEntity
 
-## Derives from KeyframeEntity
+## ```c#
+Derives from KeyframeEntity
+```
 
 ## Summary
 

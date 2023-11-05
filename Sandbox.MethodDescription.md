@@ -1,6 +1,8 @@
 # MethodDescription
 
-## Derives from MemberDescription
+## ```c#
+Derives from MemberDescription
+```
 
 ## Summary
 

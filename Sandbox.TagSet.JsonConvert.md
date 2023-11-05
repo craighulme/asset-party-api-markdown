@@ -1,6 +1,8 @@
 # JsonConvert
 
-## Derives from JsonConverter<TagSet>
+## ```c#
+Derives from JsonConverter<TagSet>
+```
 
 ## Summary
 

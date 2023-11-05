@@ -1,7 +1,8 @@
 # ClosePathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<ClosePathCommand>
+```
 
 ## Summary
 

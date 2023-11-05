@@ -1,7 +1,8 @@
 # BaseVirtualScrollPanel<T>
 
-## Is abstract
+## ```c#
 Derives from Panel
+```
 
 ## Summary
 

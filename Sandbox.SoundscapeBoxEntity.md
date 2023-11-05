@@ -1,7 +1,8 @@
 # SoundscapeBoxEntity
 
-## Derives from Entity
+## ```c#
 Implements ISoundscapeEntity
+```
 
 ## Summary
 

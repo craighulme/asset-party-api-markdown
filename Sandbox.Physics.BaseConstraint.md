@@ -1,7 +1,8 @@
 # BaseConstraint
 
-## Is abstract
+## ```c#
 Derives from Entity
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # Performance
 
-## Is static
+## ```c#
 Derives from object
+```
 
 ## Summary
 

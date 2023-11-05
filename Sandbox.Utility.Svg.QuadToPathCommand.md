@@ -1,7 +1,8 @@
 # QuadToPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<QuadToPathCommand>
+```
 
 ## Summary
 

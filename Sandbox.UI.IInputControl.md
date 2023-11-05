@@ -1,6 +1,8 @@
 # IInputControl
 
-## Is interface
+## ```c#
+Is interface
+```
 
 ## Summary
 

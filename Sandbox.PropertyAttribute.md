@@ -1,7 +1,8 @@
 # PropertyAttribute
 
-## Derives from Attribute
+## ```c#
 Implements IClassNameProvider, ITitleProvider, IDescriptionProvider
+```
 
 ## Summary
 

@@ -1,7 +1,8 @@
 # CubicToPathCommand
 
-## Derives from PathCommand
+## ```c#
 Implements IEquatable<CubicToPathCommand>
+```
 
 ## Summary
 

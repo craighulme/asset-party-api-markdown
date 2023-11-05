@@ -1,7 +1,8 @@
 # Triangle
 
-## Derives from ValueType
+## ```c#
 Implements IEquatable<Triangle>
+```
 
 ## Summary
 

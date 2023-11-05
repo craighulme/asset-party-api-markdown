@@ -1,7 +1,7 @@
 # ArcToPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< ArcToPathCommand>
+Implements IEquatable<ArcToPathCommand>
 
 ## Summary
 

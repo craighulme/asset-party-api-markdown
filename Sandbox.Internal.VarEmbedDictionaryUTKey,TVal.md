@@ -1,6 +1,6 @@
 # VarEmbedDictionaryU<TKey,TVal>
 
-## Derives from VarEmbedDictionary< TKey, TVal>
+## Derives from VarEmbedDictionary<TKey, TVal>
 
 ## Summary
 

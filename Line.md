@@ -1,7 +1,7 @@
 # Line
 
 ## Derives from ValueType
-Implements IEquatable< Line>
+Implements IEquatable<Line>
 
 ## Summary
 

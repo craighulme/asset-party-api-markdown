@@ -1,7 +1,7 @@
 # AddCirclePathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< AddCirclePathCommand>
+Implements IEquatable<AddCirclePathCommand>
 
 ## Summary
 

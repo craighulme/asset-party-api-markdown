@@ -1,7 +1,7 @@
 # AddRectPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< AddRectPathCommand>
+Implements IEquatable<AddRectPathCommand>
 
 ## Summary
 

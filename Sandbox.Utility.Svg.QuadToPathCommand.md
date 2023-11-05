@@ -1,7 +1,7 @@
 # QuadToPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< QuadToPathCommand>
+Implements IEquatable<QuadToPathCommand>
 
 ## Summary
 

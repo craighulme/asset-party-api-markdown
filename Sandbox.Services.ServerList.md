@@ -1,6 +1,6 @@
 # ServerList
 
-## Derives from List< Entry>
+## Derives from List<Entry>
 Implements IDisposable
 
 ## Summary

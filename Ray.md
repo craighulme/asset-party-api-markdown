@@ -1,7 +1,7 @@
 # Ray
 
 ## Derives from ValueType
-Implements IEquatable< Ray>
+Implements IEquatable<Ray>
 
 ## Summary
 

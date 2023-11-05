@@ -1,6 +1,6 @@
 # DecimalProperty
 
-## Derives from FloatingPointProperty< Decimal>
+## Derives from FloatingPointProperty<Decimal>
 
 ## Summary
 

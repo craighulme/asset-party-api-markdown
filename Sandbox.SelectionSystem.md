@@ -1,7 +1,7 @@
 # SelectionSystem
 
 ## Derives from object
-Implements IEnumerable< object>
+Implements IEnumerable<object>
 
 ## Summary
 

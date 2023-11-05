@@ -1,7 +1,7 @@
 # Color
 
 ## Derives from ValueType
-Implements IEquatable< Color>
+Implements IEquatable<Color>
 
 ## Summary
 

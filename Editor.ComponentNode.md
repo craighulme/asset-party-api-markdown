@@ -1,6 +1,6 @@
 # ComponentNode
 
-## Derives from TreeNode< IComponent>
+## Derives from TreeNode<IComponent>
 
 ## Summary
 

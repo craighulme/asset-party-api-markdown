@@ -1,6 +1,6 @@
 # FloatProperty
 
-## Derives from FloatingPointProperty< float>
+## Derives from FloatingPointProperty<float>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # RealTimeUntil
 
 ## Derives from ValueType
-Implements IEquatable< RealTimeUntil>
+Implements IEquatable<RealTimeUntil>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Color32
 
 ## Derives from ValueType
-Implements IEquatable< Color32>
+Implements IEquatable<Color32>
 
 ## Summary
 

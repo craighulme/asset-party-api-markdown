@@ -1,7 +1,7 @@
 # GlobalStats
 
 ## Derives from object
-Implements IEnumerable< GlobalStat>
+Implements IEnumerable<GlobalStat>
 
 ## Summary
 

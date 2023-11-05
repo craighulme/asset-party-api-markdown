@@ -1,7 +1,7 @@
 # PlayerStats
 
 ## Derives from object
-Implements IEnumerable< PlayerStat>
+Implements IEnumerable<PlayerStat>
 
 ## Summary
 

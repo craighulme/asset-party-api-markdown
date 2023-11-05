@@ -1,7 +1,7 @@
 # ColorHsv
 
 ## Derives from ValueType
-Implements IEquatable< ColorHsv>
+Implements IEquatable<ColorHsv>
 
 ## Summary
 

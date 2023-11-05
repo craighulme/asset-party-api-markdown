@@ -1,6 +1,6 @@
 # GenericPathEntity
 
-## Derives from BasePathEntity< BasePathNode>
+## Derives from BasePathEntity<BasePathNode>
 
 ## Summary
 

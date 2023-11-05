@@ -1,7 +1,7 @@
 # To
 
 ## Derives from ValueType
-Implements IEnumerable< IClient>
+Implements IEnumerable<IClient>
 
 ## Summary
 

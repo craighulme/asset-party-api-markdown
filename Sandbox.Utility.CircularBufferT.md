@@ -1,7 +1,7 @@
 # CircularBuffer<T>
 
 ## Derives from object
-Implements IEnumerable< T>
+Implements IEnumerable<T>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Frustum
 
 ## Derives from ValueType
-Implements IEquatable< Frustum>
+Implements IEquatable<Frustum>
 
 ## Summary
 

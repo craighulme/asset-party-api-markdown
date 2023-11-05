@@ -1,7 +1,7 @@
 # BBox
 
 ## Derives from ValueType
-Implements IEquatable< BBox>
+Implements IEquatable<BBox>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Angles
 
 ## Derives from ValueType
-Implements IEquatable< Angles>, IParsable< Angles>
+Implements IEquatable<Angles>, IParsable<Angles>
 
 ## Summary
 

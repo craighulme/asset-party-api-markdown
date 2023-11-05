@@ -1,7 +1,7 @@
 # PhysicsIntersectionEnd
 
 ## Derives from ValueType
-Implements IEquatable< PhysicsIntersectionEnd>
+Implements IEquatable<PhysicsIntersectionEnd>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Group
 
 ## Derives from object
-Implements IEquatable< Group>
+Implements IEquatable<Group>
 
 ## Summary
 

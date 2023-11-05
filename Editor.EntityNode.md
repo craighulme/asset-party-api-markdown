@@ -1,6 +1,6 @@
 # EntityNode
 
-## Derives from TreeNode< EntityEntry>
+## Derives from TreeNode<EntityEntry>
 
 ## Summary
 

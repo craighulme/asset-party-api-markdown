@@ -1,7 +1,7 @@
 # AssetTags
 
 ## Derives from ValueType
-Implements IEnumerable< string>
+Implements IEnumerable<string>
 
 ## Summary
 

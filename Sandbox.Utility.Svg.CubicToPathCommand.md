@@ -1,7 +1,7 @@
 # CubicToPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< CubicToPathCommand>
+Implements IEquatable<CubicToPathCommand>
 
 ## Summary
 

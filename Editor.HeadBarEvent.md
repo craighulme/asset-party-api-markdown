@@ -1,7 +1,7 @@
 # HeadBarEvent
 
 ## Derives from ValueType
-Implements IEquatable< HeadBarEvent>
+Implements IEquatable<HeadBarEvent>
 
 ## Summary
 

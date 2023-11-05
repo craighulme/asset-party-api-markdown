@@ -1,7 +1,7 @@
 # Length
 
 ## Derives from ValueType
-Implements IEquatable< Length>
+Implements IEquatable<Length>
 
 ## Summary
 

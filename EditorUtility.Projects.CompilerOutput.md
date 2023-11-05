@@ -1,7 +1,7 @@
 # CompilerOutput
 
 ## Derives from ValueType
-Implements IEquatable< CompilerOutput>
+Implements IEquatable<CompilerOutput>
 
 ## Summary
 

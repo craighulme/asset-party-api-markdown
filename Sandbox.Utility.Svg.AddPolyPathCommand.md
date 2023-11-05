@@ -1,7 +1,7 @@
 # AddPolyPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< AddPolyPathCommand>
+Implements IEquatable<AddPolyPathCommand>
 
 ## Summary
 

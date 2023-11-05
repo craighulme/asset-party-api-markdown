@@ -2,7 +2,7 @@
 
 ## Is abstract
 Derives from object
-Implements IEquatable< PathCommand>
+Implements IEquatable<PathCommand>
 
 ## Summary
 

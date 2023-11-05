@@ -1,6 +1,6 @@
 # Glow
 
-## Derives from EntityComponent< ModelEntity>
+## Derives from EntityComponent<ModelEntity>
 
 ## Summary
 

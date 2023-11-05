@@ -1,7 +1,7 @@
 # ButtonEvent
 
 ## Derives from object
-Implements IEquatable< ButtonEvent>
+Implements IEquatable<ButtonEvent>
 
 ## Summary
 

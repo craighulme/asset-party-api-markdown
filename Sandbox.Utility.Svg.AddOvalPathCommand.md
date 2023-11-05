@@ -1,7 +1,7 @@
 # AddOvalPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< AddOvalPathCommand>
+Implements IEquatable<AddOvalPathCommand>
 
 ## Summary
 

@@ -1,6 +1,6 @@
 # JsonConvert
 
-## Derives from JsonConverter< TagSet>
+## Derives from JsonConverter<TagSet>
 
 ## Summary
 

@@ -1,6 +1,6 @@
 # CaseInsensitiveDictionary<T>
 
-## Derives from Dictionary< string, T>
+## Derives from Dictionary<string, T>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # AddRoundRectPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< AddRoundRectPathCommand>
+Implements IEquatable<AddRoundRectPathCommand>
 
 ## Summary
 

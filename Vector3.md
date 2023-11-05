@@ -1,7 +1,7 @@
 # Vector3
 
 ## Derives from ValueType
-Implements IEquatable< Vector3>, IParsable< Vector3>
+Implements IEquatable<Vector3>, IParsable<Vector3>
 
 ## Summary
 

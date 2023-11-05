@@ -1,6 +1,6 @@
 # ArrayProperty<T>
 
-## Derives from ListProperty< T>
+## Derives from ListProperty<T>
 
 ## Summary
 

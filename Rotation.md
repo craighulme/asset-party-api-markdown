@@ -1,7 +1,7 @@
 # Rotation
 
 ## Derives from ValueType
-Implements IEquatable< Rotation>, IParsable< Rotation>
+Implements IEquatable<Rotation>, IParsable<Rotation>
 
 ## Summary
 

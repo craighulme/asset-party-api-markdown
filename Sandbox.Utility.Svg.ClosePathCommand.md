@@ -1,7 +1,7 @@
 # ClosePathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< ClosePathCommand>
+Implements IEquatable<ClosePathCommand>
 
 ## Summary
 

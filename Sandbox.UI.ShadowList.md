@@ -1,6 +1,6 @@
 # ShadowList
 
-## Derives from List< Shadow>
+## Derives from List<Shadow>
 
 ## Summary
 

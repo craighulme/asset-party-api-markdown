@@ -1,7 +1,7 @@
 # SortOrder
 
 ## Derives from ValueType
-Implements IEquatable< SortOrder>
+Implements IEquatable<SortOrder>
 
 ## Summary
 

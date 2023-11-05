@@ -1,7 +1,7 @@
 # ObservableDictionary<TKey,TValue>
 
 ## Derives from object
-Implements IDictionary< TKey, TValue>, INotifyCollectionChanged, INotifyPropertyChanged
+Implements IDictionary<TKey, TValue>, INotifyCollectionChanged, INotifyPropertyChanged
 
 ## Summary
 

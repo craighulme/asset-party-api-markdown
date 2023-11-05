@@ -1,6 +1,6 @@
 # TagList
 
-## Derives from HashSet< string>
+## Derives from HashSet<string>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Triangle
 
 ## Derives from ValueType
-Implements IEquatable< Triangle>
+Implements IEquatable<Triangle>
 
 ## Summary
 

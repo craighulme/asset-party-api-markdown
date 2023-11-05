@@ -1,7 +1,7 @@
 # EnumDescription
 
 ## Derives from object
-Implements IEnumerable< Entry>
+Implements IEnumerable<Entry>
 
 ## Summary
 

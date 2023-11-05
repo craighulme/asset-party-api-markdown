@@ -1,6 +1,6 @@
 # VarUnmanagedList<T>
 
-## Derives from NetworkBaseList< T>
+## Derives from NetworkBaseList<T>
 
 ## Summary
 

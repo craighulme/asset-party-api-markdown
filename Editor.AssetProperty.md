@@ -1,7 +1,7 @@
 # AssetProperty
 
 ## Derives from PropertyEditorWidget
-Implements IEditorAttribute< ResourceTypeAttribute>
+Implements IEditorAttribute<ResourceTypeAttribute>
 
 ## Summary
 

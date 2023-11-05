@@ -1,6 +1,6 @@
 # PanelTreeNode
 
-## Derives from TreeNode< IPanel>
+## Derives from TreeNode<IPanel>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Connection
 
 ## Derives from object
-Implements IEquatable< Connection>
+Implements IEquatable<Connection>
 
 ## Summary
 

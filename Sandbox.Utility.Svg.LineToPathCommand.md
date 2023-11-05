@@ -1,7 +1,7 @@
 # LineToPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< LineToPathCommand>
+Implements IEquatable<LineToPathCommand>
 
 ## Summary
 

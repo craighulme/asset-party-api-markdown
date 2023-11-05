@@ -1,6 +1,6 @@
 # VarDictionaryUU<TKey,TVal>
 
-## Derives from NetworkBaseDictionary< TKey, TVal>
+## Derives from NetworkBaseDictionary<TKey, TVal>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # Rect
 
 ## Derives from ValueType
-Implements IEquatable< Rect>
+Implements IEquatable<Rect>
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 ## Is abstract
 Derives from object
-Implements IEnumerable< SerializedProperty>
+Implements IEnumerable<SerializedProperty>
 
 ## Summary
 

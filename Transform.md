@@ -1,7 +1,7 @@
 # Transform
 
 ## Derives from ValueType
-Implements IEquatable< Transform>
+Implements IEquatable<Transform>
 
 ## Summary
 

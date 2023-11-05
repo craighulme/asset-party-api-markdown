@@ -1,7 +1,7 @@
 # TimeSince
 
 ## Derives from ValueType
-Implements IEquatable< TimeSince>
+Implements IEquatable<TimeSince>
 
 ## Summary
 

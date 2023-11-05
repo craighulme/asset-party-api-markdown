@@ -1,7 +1,7 @@
 # RealTimeSince
 
 ## Derives from ValueType
-Implements IEquatable< RealTimeSince>
+Implements IEquatable<RealTimeSince>
 
 ## Summary
 

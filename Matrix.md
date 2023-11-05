@@ -1,7 +1,7 @@
 # Matrix
 
 ## Derives from ValueType
-Implements IEquatable< Matrix>
+Implements IEquatable<Matrix>
 
 ## Summary
 

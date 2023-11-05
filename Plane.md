@@ -1,7 +1,7 @@
 # Plane
 
 ## Derives from ValueType
-Implements IEquatable< Plane>
+Implements IEquatable<Plane>
 
 ## Summary
 

@@ -1,7 +1,7 @@
 # FlagsProperty<T>
 
 ## Derives from PropertyEditorWidget
-Implements IEditorAttribute< FlagsAttribute>, IEditorAttribute< BitFlagsAttribute>
+Implements IEditorAttribute<FlagsAttribute>, IEditorAttribute<BitFlagsAttribute>
 
 ## Summary
 

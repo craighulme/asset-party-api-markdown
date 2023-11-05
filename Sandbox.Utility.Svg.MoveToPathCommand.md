@@ -1,7 +1,7 @@
 # MoveToPathCommand
 
 ## Derives from PathCommand
-Implements IEquatable< MoveToPathCommand>
+Implements IEquatable<MoveToPathCommand>
 
 ## Summary
 

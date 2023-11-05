@@ -1,7 +1,7 @@
 # TimeUntil
 
 ## Derives from ValueType
-Implements IEquatable< TimeUntil>
+Implements IEquatable<TimeUntil>
 
 ## Summary
 

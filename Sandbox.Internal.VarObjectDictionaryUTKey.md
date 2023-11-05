@@ -1,6 +1,6 @@
 # VarObjectDictionaryU<TKey>
 
-## Derives from NetworkBaseDictionary< TKey, object>
+## Derives from NetworkBaseDictionary<TKey, object>
 
 ## Summary
 

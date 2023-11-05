@@ -1,7 +1,7 @@
 # Capsule
 
 ## Derives from ValueType
-Implements IEquatable< Capsule>
+Implements IEquatable<Capsule>
 
 ## Summary
 

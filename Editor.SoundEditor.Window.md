@@ -1,0 +1,53 @@
+# Window
+
+## Derives from DockWindow
+Implements IAssetEditor
+
+## Summary
+
+ImplementsIAssetEditor.CanOpenMultipleAssetsIf this editor is able to edit multiple assets at the same time then return true
+and we'll try to create only one version of that editor and AssetOpen will be called multiple times.
+## Constructors
+
+```c#
+Window( ) 
+```
+No Summary
+## Properties
+
+```c#
+virtual bool CanOpenMultipleAssets { get; } 
+```
+ImplementsIAssetEditor.CanOpenMultipleAssetsIf this editor is able to edit multiple assets at the same time then return true
+and we'll try to create only one version of that editor and AssetOpen will be called multiple times.
+## Methods
+
+```c#
+virtual void AssetOpen( Asset asset) 
+```
+ImplementsIAssetEditor.AssetOpenOpen the asset in this editor.
+```c#
+void BuildMenuBar( ) 
+```
+No Summary
+```c#
+void CreateUI( ) 
+```
+No Summary
+```c#
+protected void OnFrame( ) 
+```
+No Summary
+```c#
+void OnHotload( ) 
+```
+No Summary
+```c#
+protected override void OnClosed( ) 
+```
+OverridesWindow.OnClosedCalled when a window is closed.
+```c#
+protected override void RestoreDefaultDockLayout( ) 
+```
+OverridesDockWindow.RestoreDefaultDockLayoutOverride to apply a default layout to your window. This is called automatically from
+RestoreFromStateCookie if there is no cookie set.

@@ -1,0 +1,13 @@
+# Field
+
+## Derives from Panel
+
+## Summary
+
+A field in a form, usually contains a label and a control
+## Constructors
+
+```c#
+Field( ) 
+```
+No Summary
